@@ -1,0 +1,6 @@
+# copied from upstream-v*/ (or fetched) by extract_en.py
+/LanguageCopy.kt
+/ChromeLines.kt
+
+__pycache__/
+*.pyc
