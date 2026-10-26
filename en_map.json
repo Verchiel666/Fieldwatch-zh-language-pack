@@ -1,0 +1,8187 @@
+[
+ {
+  "key": "tab.live",
+  "text": "Live",
+  "slot": "TAB",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "tab.pause",
+  "text": "Pause",
+  "slot": "TAB",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "tab.filters",
+  "text": "Filters",
+  "slot": "TAB",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "tab.signatures",
+  "text": "Signatures",
+  "slot": "TAB",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "tab.reports",
+  "text": "Reports",
+  "slot": "TAB",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "tab.settings",
+  "text": "Settings",
+  "slot": "TAB",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "chrome.pause.display",
+  "text": "Pause display",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "chrome.back",
+  "text": "Back",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "chrome.extra.attention",
+  "text": "Extra attention",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "class.finder",
+  "text": "Finder tags",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.beacon",
+  "text": "Retail beacons",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.signage",
+  "text": "Signage",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.wearable",
+  "text": "Wearables",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.surveillance",
+  "text": "Surveillance",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.drone",
+  "text": "Drones",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.hacking",
+  "text": "Pentest",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.bodyworn",
+  "text": "Body-worn",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.law",
+  "text": "Public safety",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.vehicle",
+  "text": "Vehicle",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.glasses",
+  "text": "Glasses",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.audio",
+  "text": "Audio",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.camera",
+  "text": "Cameras",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.thermostat",
+  "text": "Thermostats",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.lock",
+  "text": "Access control",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.health",
+  "text": "Health",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.home",
+  "text": "Home IoT",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.isp",
+  "text": "ISP / routers",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.mesh",
+  "text": "Mesh",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.phone",
+  "text": "Phones / PCs",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "class.other",
+  "text": "Other",
+  "slot": "CLASSCHIP",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "speech.finder",
+  "text": "finder tags",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "speech.beacon",
+  "text": "retail beacons",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "speech.signage",
+  "text": "signage",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "speech.wearable",
+  "text": "wearables",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "speech.surveillance",
+  "text": "surveillance",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "speech.drone",
+  "text": "drones",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "speech.hacking",
+  "text": "pentest",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "speech.bodyworn",
+  "text": "body worn",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "speech.law",
+  "text": "public safety",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "speech.vehicle",
+  "text": "vehicle",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "speech.glasses",
+  "text": "glasses",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "speech.audio",
+  "text": "audio",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "speech.camera",
+  "text": "cameras",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "speech.thermostat",
+  "text": "thermostats",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "speech.lock",
+  "text": "access control",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "speech.health",
+  "text": "health",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "speech.home",
+  "text": "home I O T",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "speech.isp",
+  "text": "I S P routers",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "speech.mesh",
+  "text": "mesh",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "speech.phone",
+  "text": "phones",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "speech.other",
+  "text": "other",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.appearance",
+  "text": "Appearance",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.scanning",
+  "text": "Scanning",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.watchlist",
+  "text": "Watchlist",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.location",
+  "text": "Location",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.location.maps",
+  "text": "Location and Maps",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.gnss",
+  "text": "GNSS interference",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.tak",
+  "text": "TAK / CoT",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.logging",
+  "text": "Logging",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.signatures",
+  "text": "Signatures",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.backup",
+  "text": "Settings backup",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.language",
+  "text": "Language",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "settings.topic.maps",
+  "text": "Maps",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "settings.map.choice",
+  "text": "Map",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "map.openstreetmap",
+  "text": "OpenStreetMap",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "map.usgs.imagery",
+  "text": "USGS Imagery",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "map.usgs.topo",
+  "text": "USGS Topo",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "map.esri.satellite",
+  "text": "Esri Satellite",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "map.esri.streets",
+  "text": "Esri Streets",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "map.esri.outdoor",
+  "text": "Esri Outdoor",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "map.maptiler.satellite",
+  "text": "MapTiler Satellite",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "map.maptiler.streets",
+  "text": "MapTiler Streets",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "map.maptiler.outdoor",
+  "text": "MapTiler Outdoor",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "map.stadia.satellite",
+  "text": "Stadia Satellite",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "map.stadia.streets",
+  "text": "Stadia Streets",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "map.stadia.terrain",
+  "text": "Stadia Terrain",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "map.thunderforest.streets",
+  "text": "Thunderforest Streets",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "map.thunderforest.outdoors",
+  "text": "Thunderforest Outdoors",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "map.thunderforest.transport",
+  "text": "Thunderforest Transport",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "map.key.mark",
+  "text": "Key",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.key.label",
+  "text": "Map key",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.key.hint",
+  "text": "Paste the key from your account. It stays on this phone and is left out of Export settings.",
+  "slot": "BODY",
+  "cap": 273,
+  "ph": []
+ },
+ {
+  "key": "map.key.missing.title",
+  "text": "This map needs a key",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.key.missing.body",
+  "text": "Paste the key from your account. Fieldwatch keeps it on this phone.",
+  "slot": "BODY",
+  "cap": 201,
+  "ph": []
+ },
+ {
+  "key": "map.key.denied.title",
+  "text": "Key not saved",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.key.denied.body",
+  "text": "Fieldwatch did not store that. Use the key from your account. Only letters, numbers, and . - _ are kept.",
+  "slot": "BODY",
+  "cap": 312,
+  "ph": []
+ },
+ {
+  "key": "map.key.rejected.title",
+  "text": "Map key was rejected",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.key.rejected.body",
+  "text": "The map service did not accept this key. Check the key and that the account allows this app.",
+  "slot": "BODY",
+  "cap": 276,
+  "ph": []
+ },
+ {
+  "key": "map.key.failed.title",
+  "text": "Map did not load",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.key.failed.body",
+  "text": "Check the key and that this phone can reach the internet.",
+  "slot": "BODY",
+  "cap": 171,
+  "ph": []
+ },
+ {
+  "key": "settings.map.about",
+  "text": "Show live path, Reports → Path, and the path figure use this map. Online place names and maps has to be on. OpenStreetMap covers the world. USGS Imagery and USGS Topo cover the United States. A map marked Key covers the world and uses a key from that service. The key stays on this phone. The small line in the corner names the map.",
+  "slot": "BODY",
+  "cap": 700,
+  "ph": []
+ },
+ {
+  "key": "settings.map.needs.online",
+  "text": "Turn on Online place names and maps to load a map.",
+  "slot": "BODY",
+  "cap": 150,
+  "ph": []
+ },
+ {
+  "key": "settings.map.position",
+  "text": "Position",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "map.position.gps",
+  "text": "GPS",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "settings.map.position.about",
+  "text": "Where this phone is now, on the lower left of the map.",
+  "slot": "BODY",
+  "cap": 162,
+  "ph": []
+ },
+ {
+  "key": "settings.named.radios",
+  "text": "Named radios",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "language.follow",
+  "text": "Use the phone's locale if available",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "language.english",
+  "text": "English",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "language.import",
+  "text": "Import language pack",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "language.remove",
+  "text": "Remove language pack",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "language.section.set",
+  "text": "Set",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "language.section.set.about",
+  "text": "Select an available language.",
+  "slot": "BODY",
+  "cap": 87,
+  "ph": []
+ },
+ {
+  "key": "language.section.add",
+  "text": "Add",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "language.section.add.about",
+  "text": "Import a language file that does not come with the app. Fieldwatch does not download one.",
+  "slot": "BODY",
+  "cap": 267,
+  "ph": []
+ },
+ {
+  "key": "language.section.remove",
+  "text": "Remove",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "language.section.remove.about",
+  "text": "Remove the imported file on this phone. Fieldwatch then follows the phone language.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "language.import.blocks",
+  "text": "Remove the imported pack to choose a different language.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "language.remove.title",
+  "text": "Remove this language pack?",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "language.remove.body",
+  "text": "This deletes the imported file on this phone.\n\nFieldwatch then follows the phone language.",
+  "slot": "BODY",
+  "cap": 270,
+  "ph": []
+ },
+ {
+  "key": "language.import.action",
+  "text": "Import",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "language.cancel",
+  "text": "Cancel",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "language.use",
+  "text": "Use",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "language.confirm.use",
+  "text": "Use {language}?",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": [
+   "language"
+  ]
+ },
+ {
+  "key": "live.show.all",
+  "text": "Show all",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "live.collapse.empty",
+  "text": "Collapse empty",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "live.summary.radios",
+  "text": "{n} radios",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.summary.unmatched",
+  "text": "{n} unmatched",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.summary.multi",
+  "text": "{n} in more than one class",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.summary.hidden",
+  "text": "{n} empty hidden",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.no.signature",
+  "text": "no signature",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "live.signatures",
+  "text": "{n} signatures",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.flood.hiding",
+  "text": "Hiding {n} flood radios",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.new.hidden",
+  "text": "New only · {n} hidden",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.follow.path",
+  "text": "Follow · path {n} m · Start over clears the path",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.path.short",
+  "text": "GPS path {n} m — too short. Keep moving. If this stays 0, Location is not updating (use high accuracy).",
+  "slot": "BODY",
+  "cap": 309,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.already.hidden",
+  "text": "{n} already seen are hidden. A new radio stays while we hear it, then at least as long as Brief hold after the last packet.",
+  "slot": "BODY",
+  "cap": 369,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "live.gnss.paused",
+  "text": "GNSS paused by the phone",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.n.gone",
+  "text": "{n} gone",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "ui.feed.on",
+  "text": "on the feed {n}",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "ui.feed.sent",
+  "text": "sent {n}",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "ui.feed.status",
+  "text": "Feed status",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.pick.second.sit",
+  "text": "Pick a second sit.",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.read.sit",
+  "text": "Could not read that sit.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.read.this.sit",
+  "text": "Could not read this sit.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.write.location",
+  "text": "Could not write to the location you picked.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.read.file",
+  "text": "Could not read that file.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.format.sit.export",
+  "text": "That format is a sit export.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.open.location",
+  "text": "Could not open the selected location",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.pick.map.format",
+  "text": "Pick a map format.",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.no.gps.tagged.radios",
+  "text": "No GPS-tagged radios. Settings → Tag detections with GPS, logging on, then sit.",
+  "slot": "BODY",
+  "cap": 237,
+  "ph": []
+ },
+ {
+  "key": "ui.no.gps.tagged.wifi",
+  "text": "No GPS-tagged Wi-Fi radios. Settings → Tag detections with GPS, logging on, then sit.",
+  "slot": "BODY",
+  "cap": 255,
+  "ph": []
+ },
+ {
+  "key": "ui.no.gps.tagged.ble",
+  "text": "No GPS-tagged BLE radios. Settings → Tag detections with GPS, logging on, then sit.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.writing.what",
+  "text": "Writing {what}",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": [
+   "what"
+  ]
+ },
+ {
+  "key": "ui.writing.radios",
+  "text": "Writing {what} · {n} radios",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "n",
+   "what"
+  ]
+ },
+ {
+  "key": "ui.writing.pins",
+  "text": "Writing {what} · {n} pins",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "n",
+   "what"
+  ]
+ },
+ {
+  "key": "ui.writing.progress",
+  "text": "Writing {what} · {done} of {total}",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "done",
+   "total",
+   "what"
+  ]
+ },
+ {
+  "key": "ui.reading.kb",
+  "text": "Reading log · {done} KB of {total} KB",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "done",
+   "total"
+  ]
+ },
+ {
+  "key": "ui.writing.kb",
+  "text": "Writing {done} KB of {total} KB",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "done",
+   "total"
+  ]
+ },
+ {
+  "key": "diag.on",
+  "text": "on",
+  "slot": "CONTROL",
+  "cap": 4,
+  "ph": []
+ },
+ {
+  "key": "diag.off",
+  "text": "off",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "diag.granted",
+  "text": "granted",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "diag.missing",
+  "text": "missing",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "diag.parked",
+  "text": "parked",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "diag.retrying",
+  "text": "retrying",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "diag.starting",
+  "text": "starting",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "diag.running",
+  "text": "running",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "diag.none",
+  "text": "none",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "diag.waiting.age",
+  "text": "waiting on OS ({age})",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": [
+   "age"
+  ]
+ },
+ {
+  "key": "diag.seconds.ago",
+  "text": "{n}s ago",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "diag.minutes.ago",
+  "text": "{n} min ago",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "diag.filter.hiding",
+  "text": "A filter is hiding radios. Filters is {filters}. Set Filters to All Traffic to see everything the phone hears.",
+  "slot": "BODY",
+  "cap": 330,
+  "ph": [
+   "filters"
+  ]
+ },
+ {
+  "key": "language.confirm.title",
+  "text": "Import {language}?",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": [
+   "language"
+  ]
+ },
+ {
+  "key": "language.confirm.written",
+  "text": "Written for {version}. This phone is {phone}.",
+  "slot": "BODY",
+  "cap": 135,
+  "ph": [
+   "phone",
+   "version"
+  ]
+ },
+ {
+  "key": "language.confirm.change",
+  "text": "{n} lines will change.",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "language.confirm.stay",
+  "text": "{n} lines will stay English.",
+  "slot": "BODY",
+  "cap": 84,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "language.confirm.ignored",
+  "text": "{n} lines in the file were ignored.",
+  "slot": "BODY",
+  "cap": 105,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "language.confirm.new",
+  "text": "{n} keys are new since your pack.",
+  "slot": "BODY",
+  "cap": 99,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "language.confirm.newer",
+  "text": "This pack uses a newer format. Only the lines were used.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "language.err.settings",
+  "text": "That is a settings pack. Use Import settings.",
+  "slot": "BODY",
+  "cap": 135,
+  "ph": []
+ },
+ {
+  "key": "language.err.signatures",
+  "text": "That is a signature pack. Use Import signatures.",
+  "slot": "BODY",
+  "cap": 144,
+  "ph": []
+ },
+ {
+  "key": "language.err.not",
+  "text": "Not a Fieldwatch language pack.",
+  "slot": "BODY",
+  "cap": 93,
+  "ph": []
+ },
+ {
+  "key": "language.err.empty",
+  "text": "This file is empty.",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "language.err.large",
+  "text": "That file is too large.",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "language.err.none",
+  "text": "That file has no lines this version can use.",
+  "slot": "BODY",
+  "cap": 132,
+  "ph": []
+ },
+ {
+  "key": "header.wifi.off",
+  "text": "Wi-Fi off",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "header.wifi.idle",
+  "text": "Wi-Fi idle",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "header.wifi.location",
+  "text": "Wi-Fi, Location is off",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "header.wifi.wait",
+  "text": "Wi-Fi waiting on Android",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "header.wifi.on",
+  "text": "Wi-Fi on",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "header.ble.off",
+  "text": "Bluetooth off",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "header.ble.idle",
+  "text": "Bluetooth idle",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "header.ble.location",
+  "text": "Bluetooth, Location is off",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "header.ble.wait",
+  "text": "Bluetooth waiting on Android",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "header.ble.on",
+  "text": "Bluetooth on",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "header.gps.alert",
+  "text": "GPS alert",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "header.gps.paused",
+  "text": "GPS paused",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "header.gps.on",
+  "text": "GPS on",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "export.log.csv",
+  "text": "Log file — CSV",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "export.log.jsonl",
+  "text": "Log file — JSON lines",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "export.gpx",
+  "text": "GPX — GPS Exchange",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "export.kml",
+  "text": "KML — Google Earth",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "export.geojson",
+  "text": "GeoJSON — map file",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "export.wigle",
+  "text": "WiGLE CSV — wigle.net",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "export.atak",
+  "text": "ATAK data package",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "export.both",
+  "text": "Both radios",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "export.wifi.only",
+  "text": "Wi-Fi only",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "export.ble.only",
+  "text": "BLE only",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "reports.debrief.pdf",
+  "text": "Debrief (PDF)",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "reports.compare.pdf",
+  "text": "Compare (PDF)",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "reports.path",
+  "text": "Path",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "reports.debrief",
+  "text": "Debrief",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "reports.sit.export",
+  "text": "Sit export",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "reports.compare",
+  "text": "Compare",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "reports.log.export",
+  "text": "Log Export",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "reports.candidates",
+  "text": "Signature candidates",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "reports.sits",
+  "text": "Sits",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "rule.oui",
+  "text": "OUI",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "rule.mac.prefix",
+  "text": "MAC prefix",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "rule.hidden.ssid",
+  "text": "Matches hidden SSIDs",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "rule.hidden.label",
+  "text": "Hidden SSID",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "display.rssi",
+  "text": "RSSI bars",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "display.live.path",
+  "text": "Show live path",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "display.recenter",
+  "text": "Recenter",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "map.north.up",
+  "text": "North up",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.rotate.travel",
+  "text": "Rotate with travel",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.close.heading",
+  "text": "Nearby, heading up",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "map.close.north",
+  "text": "Nearby, north up",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.here",
+  "text": "Radios here: {n}",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": [
+   "n"
+  ]
+ },
+ {
+  "key": "ui.move.path",
+  "text": "Move the path",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.waiting.gps.fix",
+  "text": "Waiting for a GPS fix.",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "display.mac",
+  "text": "MAC address",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "display.advertised",
+  "text": "Advertised name",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "display.name.type",
+  "text": "Name + type",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "display.none",
+  "text": "None",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "view.radar",
+  "text": "Classic radar",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "view.list",
+  "text": "Strength list",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "view.timeline",
+  "text": "Timeline",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "view.hybrid",
+  "text": "Hybrid + sparklines",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "view.by.class",
+  "text": "By class",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "voice.class",
+  "text": "Class",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "voice.signature",
+  "text": "Signature",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "voice.both",
+  "text": "Class + signature",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "sort.name",
+  "text": "Name A–Z",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "sort.class",
+  "text": "Class A–Z",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "radio.wifi",
+  "text": "Wi-Fi",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "radio.ble",
+  "text": "BLE",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.reading.log",
+  "text": "Reading the log…",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.rotating.log",
+  "text": "Rotating log",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.re.matched.now",
+  "text": "· re-matched now",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.no.signature.families.log",
+  "text": "No signature families in this log. Randomized addresses and house-like names are skipped. A candidate needs a unique on-air ID on two or more radios.",
+  "slot": "BODY",
+  "cap": 447,
+  "ph": []
+ },
+ {
+  "key": "ui.create.signature",
+  "text": "Create signature",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.skipped.label",
+  "text": "Skipped",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.those.not.catalog.families",
+  "text": ". Those are not catalog families.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.hunt.label",
+  "text": "Hunt",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.reset.hunt",
+  "text": "Reset this hunt",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.back.detail",
+  "text": "Back to detail",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.beep.label",
+  "text": "Beep",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.vibrate.label",
+  "text": "Vibrate",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.no.live.rssi",
+  "text": "no live RSSI",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.loudest.hunt",
+  "text": "Loudest this hunt  —",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "hunt.heat.poor",
+  "text": "Weak",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "hunt.heat.moderate",
+  "text": "Moderate",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "hunt.heat.strong",
+  "text": "Strong",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "hunt.heat.powerful",
+  "text": "Powerful",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "hunt.heat.empty",
+  "text": "Color builds where this radio is louder.",
+  "slot": "BODY",
+  "cap": 120,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.not.available",
+  "text": "Not available",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.band.unavailable",
+  "text": "not available",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.very.strong",
+  "text": "very strong",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.strong",
+  "text": "strong",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.medium",
+  "text": "medium",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.weak",
+  "text": "weak",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.rssi.very.weak",
+  "text": "very weak",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.last.heard",
+  "text": "last heard  —",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.watch.label",
+  "text": "Watch",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.not.air.last.detail",
+  "text": "Not on the air. This is the last detail we heard.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.custom.name",
+  "text": "Custom name",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.advertised.label",
+  "text": "Advertised",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.no.advertised.name",
+  "text": "No advertised name",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.name.label",
+  "text": "Name",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.custom.name",
+  "text": "Hide custom name",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.saved.label",
+  "text": "Saved",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.save.name",
+  "text": "Save name",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.observer.notes.cleared",
+  "text": "Observer notes cleared",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.observer.notes.saved",
+  "text": "Observer notes saved",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.mine.label",
+  "text": "Mine",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.while.radio.stays.listed",
+  "text": "While on, this radio stays listed and does not beep.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.yours.no.beep",
+  "text": "Marked as yours. No beep while this is on. Still listed.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "ui.identity.label",
+  "text": "Identity",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.radio.label",
+  "text": "Radio",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.access.point",
+  "text": "Wi-Fi access point (beaconing a network)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.low.energy.advertiser",
+  "text": "Bluetooth Low Energy advertiser",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.address.label",
+  "text": "Address",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.who.made",
+  "text": "Who made it",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.oui.vendor.prefix",
+  "text": "OUI (vendor prefix)",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.network.name.ssid",
+  "text": "Network name (SSID)",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.hidden.ap.beaconing.but",
+  "text": "Hidden — the AP is beaconing but not publishing a name",
+  "slot": "BODY",
+  "cap": 162,
+  "ph": []
+ },
+ {
+  "key": "ui.signal.label",
+  "text": "Signal",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.how.loud.here.rssi",
+  "text": "How loud here (RSSI)",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.not.available",
+  "text": "Not available",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.last.heard.2",
+  "text": "Last heard",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.closer.0.dbm.louder",
+  "text": "Closer to 0 dBm is louder here, not a distance.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.heard.range.session",
+  "text": "Heard range this session",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.claimed.transmit.power",
+  "text": "Claimed transmit power",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.channel.frequency",
+  "text": "Channel / frequency",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.generation",
+  "text": "Wi-Fi generation",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.center.frequencies",
+  "text": "Center frequencies",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.advertisement",
+  "text": "Bluetooth advertisement",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.radio.phy",
+  "text": "Radio PHY",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.connectable.label",
+  "text": "Connectable",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.yes.phone.could.open",
+  "text": "Yes — a phone could open a BLE connection",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.broadcast.only.can",
+  "text": "No — broadcast-only (you can hear it, not join it from this scan)",
+  "slot": "BODY",
+  "cap": 195,
+  "ph": []
+ },
+ {
+  "key": "ui.how.often.advertises",
+  "text": "How often it advertises",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.periodic.advertising",
+  "text": "Periodic advertising",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.discoverability.label",
+  "text": "Discoverability",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.flags.raw",
+  "text": "Flags (raw)",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.what.says.appearance",
+  "text": "What it says it is (Appearance)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.appearance.code",
+  "text": "Appearance code",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.classic.bluetooth.class",
+  "text": "Classic Bluetooth class",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.class.device.bitfield.used",
+  "text": "This is the Class of Device bitfield used by classic Bluetooth.",
+  "slot": "BODY",
+  "cap": 189,
+  "ph": []
+ },
+ {
+  "key": "ui.also.offers",
+  "text": "Also offers:",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.access.point.2",
+  "text": "Wi-Fi access point",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.encryption.login",
+  "text": "Encryption / login",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.security.string",
+  "text": "Security string",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.supported.rates",
+  "text": "Supported rates",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.capability.string",
+  "text": "Capability string",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.services.offers",
+  "text": "Services it offers",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.service.ids",
+  "text": "Service IDs",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.aircraft.label",
+  "text": "Aircraft",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.aircraft.position",
+  "text": "Aircraft position",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.grid",
+  "text": "Grid",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.range.bearing",
+  "text": "{distance}, bearing {degrees}",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": [
+   "degrees",
+   "distance"
+  ]
+ },
+ {
+  "key": "ui.decoded.fields",
+  "text": "Decoded fields",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.decode.fields.did.not",
+  "text": "Decode fields did not apply to this advertisement (short payload, a different company ID, or a different layout). Govee lights usually only send a name; hygrometers are H5074/H5075/H510x. Raw bytes are below.",
+  "slot": "BODY",
+  "cap": 624,
+  "ph": []
+ },
+ {
+  "key": "ui.decode.fields.did.not.2",
+  "text": "Decode fields did not apply to this advertisement (short payload, a different company ID, or a different layout). Raw bytes are below.",
+  "slot": "BODY",
+  "cap": 402,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.has.decode.map",
+  "text": "This signature has a decode map, but this advertisement has no manufacturer or service payload to parse. Many Govee lights only broadcast a name.",
+  "slot": "BODY",
+  "cap": 435,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.has.decode.map.2",
+  "text": "This signature has a decode map, but this advertisement has no manufacturer or service payload to parse.",
+  "slot": "BODY",
+  "cap": 312,
+  "ph": []
+ },
+ {
+  "key": "ui.maker.data.inside.ad",
+  "text": "Maker data inside the ad",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.not.bluetooth.company.list",
+  "text": "Not in the Bluetooth company list",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.vendor.tags",
+  "text": "Wi-Fi vendor tags",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.unknown.ieee.oui",
+  "text": "Unknown IEEE OUI",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.extra.ap.information.element",
+  "text": "— extra AP information element, not the SSID.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.session.label",
+  "text": "Session",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.first.seen",
+  "text": "First seen",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.last.seen",
+  "text": "Last seen",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.hits.label",
+  "text": "Hits",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.last.fix",
+  "text": "Last fix",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.matched.signatures",
+  "text": "Matched signatures",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.raw.advertisement",
+  "text": "Raw advertisement",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.signal.trend",
+  "text": "Signal trend",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.presence.15.min",
+  "text": "Presence (15 min)",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.hunt.ble.only.wi",
+  "text": "Hunt is BLE only. Wi-Fi access points update too slowly on stock Android to walk toward.",
+  "slot": "BODY",
+  "cap": 264,
+  "ph": []
+ },
+ {
+  "key": "ui.create.signature.device",
+  "text": "Create signature from device",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.share.text",
+  "text": "Share as text",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.ai.export",
+  "text": "AI Export",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.opens.paste.ready.prompt",
+  "text": "Opens a paste-ready prompt for a chat: decode this radio, look up OUI/company/UUIDs, and say what it most likely is. Same experimental disclaimer as Settings → AI Export. One device only — not identity.",
+  "slot": "BODY",
+  "cap": 606,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.family",
+  "text": "Signature family",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.notes.label",
+  "text": "Notes",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.observer.notes",
+  "text": "Observer notes",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.observer.notes",
+  "text": "Hide observer notes",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.no.observer.notes",
+  "text": "No observer notes",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.save.notes",
+  "text": "Save notes",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.pattern.match.not.identity",
+  "text": "Pattern match, not identity. Not a safety finding.",
+  "slot": "BODY",
+  "cap": 150,
+  "ph": []
+ },
+ {
+  "key": "ui.what.looks.like",
+  "text": "What this looks like",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.one.mac.each.custom",
+  "text": "One MAC each. Custom name shows on Live. Mine marks it as yours: no beep while on, still listed. Observer notes show on detail and reports. Alert is optional (pip / voice / flash). Filters → Keep named only hides everything else. Signature watches stay on Signatures.",
+  "slot": "BODY",
+  "cap": 700,
+  "ph": []
+ },
+ {
+  "key": "ui.no.named.radios.set",
+  "text": "No named radios. Set a custom name on detail, or bookmark a radio (top-right) to watch it.",
+  "slot": "BODY",
+  "cap": 270,
+  "ph": []
+ },
+ {
+  "key": "ui.clear.named.radios",
+  "text": "Clear named radios?",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.clear.label",
+  "text": "Clear",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.named.radio",
+  "text": "Named radio",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.save.label",
+  "text": "Save",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.edit.label",
+  "text": "Edit",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.air.tap.open.detail",
+  "text": "On the air — tap to open detail",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.not.session",
+  "text": "Not this session",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.alert.label",
+  "text": "Alert",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.decode.fields",
+  "text": "Decode fields",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.source.label",
+  "text": "Source",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.map.cleartext.ble.bytes",
+  "text": "Map cleartext BLE bytes after this signature matches. Encrypted ads stay hex.",
+  "slot": "BODY",
+  "cap": 231,
+  "ph": []
+ },
+ {
+  "key": "ui.manufacturer.label",
+  "text": "Manufacturer",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.service.data",
+  "text": "Service data",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.company.id",
+  "text": "Company ID",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.optional.byte.0.first",
+  "text": "Optional. Byte 0 is the first byte after the company ID. Empty = any record.",
+  "slot": "BODY",
+  "cap": 228,
+  "ph": []
+ },
+ {
+  "key": "ui.service.uuid",
+  "text": "Service UUID",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.required.16.bit.feaa",
+  "text": "Required. 16-bit (FEAA) or full UUID.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fields.label",
+  "text": "Fields",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.add.field",
+  "text": "Add field",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.remove.decode.map",
+  "text": "Remove decode map",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.clears.every.field.live",
+  "text": "Clears every field. Live drops the code mark. The raw advertisement stays.",
+  "slot": "BODY",
+  "cap": 222,
+  "ph": []
+ },
+ {
+  "key": "ui.preview.label",
+  "text": "Preview",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.remove.decode.map.2",
+  "text": "Remove decode map?",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.clears.all.fields.signature",
+  "text": "Clears all fields on this signature. Live no longer shows the code mark. Raw advertisements stay. This cannot be undone except by adding fields again.",
+  "slot": "BODY",
+  "cap": 450,
+  "ph": []
+ },
+ {
+  "key": "ui.no.matching.radio.air",
+  "text": "No matching radio on the air. Save anyway; detail will fill in when one is heard.",
+  "slot": "BODY",
+  "cap": 243,
+  "ph": []
+ },
+ {
+  "key": "ui.matching.radio.air.but",
+  "text": "A matching radio is on the air, but this advertisement has no bytes for the source above.",
+  "slot": "BODY",
+  "cap": 267,
+  "ph": []
+ },
+ {
+  "key": "ui.nothing.parsed.check.offset",
+  "text": "Nothing parsed. Check the offset and length. Byte 0 is the first byte after the company ID or service UUID.",
+  "slot": "BODY",
+  "cap": 321,
+  "ph": []
+ },
+ {
+  "key": "ui.label.label",
+  "text": "Label",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.field",
+  "text": "Delete field",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.offset.label",
+  "text": "Offset",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.length.label",
+  "text": "Length",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.unit.label",
+  "text": "Unit",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.bit.offset",
+  "text": "Bit offset",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.bit.width",
+  "text": "Bit width",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.scale.label",
+  "text": "Scale",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.live.row",
+  "text": "Live row",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.show.value.next.signature",
+  "text": "Show this value next to the signature name. Strong values use a heavier chip.",
+  "slot": "BODY",
+  "cap": 231,
+  "ph": []
+ },
+ {
+  "key": "ui.more.label",
+  "text": "More",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.modulo.label",
+  "text": "Modulo",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.extra",
+  "text": "Hide extra",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.only.if",
+  "text": "Only if…",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.only.if.2",
+  "text": "Only if",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.bytes.label",
+  "text": "Bytes",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.hex.label",
+  "text": "Hex",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.named.values",
+  "text": "Named values…",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.named.values.2",
+  "text": "Named values",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.raw.label",
+  "text": "Raw",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.show.label",
+  "text": "Show as",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.value",
+  "text": "Delete value",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.strong.label",
+  "text": "Strong",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.note.label",
+  "text": "Note",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.add.value",
+  "text": "Add value",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.not.equals",
+  "text": "not equals",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.none.bits",
+  "text": "none of bits",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.when.label",
+  "text": "When",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.payload.length",
+  "text": "payload length",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.type.label",
+  "text": "Type",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.endian.label",
+  "text": "Endian",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.presets.label",
+  "text": "Presets",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.tap.preset.load.long",
+  "text": "Tap a preset to load it. Long-press on one to delete it.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "ui.save.current.filters.settings",
+  "text": "Or save current filters settings to a new preset.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.save.current",
+  "text": "Save current as…",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.label",
+  "text": "Radios",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.moving.uses.ble.only",
+  "text": "Moving with you uses BLE only. Both and Wi-Fi only stay unavailable until you turn that switch off.",
+  "slot": "BODY",
+  "cap": 297,
+  "ph": []
+ },
+ {
+  "key": "ui.pick.which.radios.live",
+  "text": "Pick which radios Live shows.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.both.label",
+  "text": "Both",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.reset.filter",
+  "text": "Reset filter",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.keep.hide",
+  "text": "Keep or hide",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.keep.signature.matches.only",
+  "text": "Keep signature matches only",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.live.shows.radios.match",
+  "text": "Live shows radios that match a signature. Unmatched stay off this list.",
+  "slot": "BODY",
+  "cap": 213,
+  "ph": []
+ },
+ {
+  "key": "ui.show.only.already.hiding",
+  "text": "Show only is already hiding unmatched radios. Turn Show only off to use this switch.",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.keep.watched.only",
+  "text": "Keep watched only",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.live.shows.bookmarked.signatures",
+  "text": "Live shows bookmarked signatures, and named radios with Alert on. Hide these still applies. A name with no bookmark stays under Keep named only.",
+  "slot": "BODY",
+  "cap": 432,
+  "ph": []
+ },
+ {
+  "key": "ui.keep.named.only",
+  "text": "Keep named only",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.live.shows.radios.named",
+  "text": "Live shows radios you named. Alert can be off. A radio that changes its address will not keep that name.",
+  "slot": "BODY",
+  "cap": 312,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.mine",
+  "text": "Hide Mine",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.marked.mine.stay",
+  "text": "Radios marked Mine stay off Live. The sit and Debrief still have them. Moving with you leaves this on.",
+  "slot": "BODY",
+  "cap": 306,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.fast.pair.account",
+  "text": "Hide Fast Pair account-key",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.hides.already.paired.fast",
+  "text": "Hides already-paired Fast Pair radios that match no other signature. Radios still in pairing mode stay. Hide selected signatures can hide those too.",
+  "slot": "BODY",
+  "cap": 444,
+  "ph": []
+ },
+ {
+  "key": "ui.selected.signature.classes",
+  "text": "Selected signature classes",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.select.show.only.hide",
+  "text": "Select Show only or Hide these, then the signature classes to show or hide from the Live list. Creating a preset will include these selections.",
+  "slot": "BODY",
+  "cap": 429,
+  "ph": []
+ },
+ {
+  "key": "ui.show.only",
+  "text": "Show only",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.these",
+  "text": "Hide these",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.selected.signatures",
+  "text": "Selected signatures",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.select.show.only.hide.2",
+  "text": "Select Show only or Hide these, then select the signatures to show or hide on the Live list. Creating a preset will include these selections.",
+  "slot": "BODY",
+  "cap": 423,
+  "ph": []
+ },
+ {
+  "key": "ui.tap.class.open",
+  "text": "Tap a class to open it.",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.signal.name.mac.vendor",
+  "text": "Signal, name, MAC, vendor",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.name.mac.contains",
+  "text": "Name / MAC contains",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.vendor.contains",
+  "text": "Vendor contains",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.name.vendor.signal.class",
+  "text": "Name, vendor, signal, and class",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.means.all.these.match",
+  "text": "AND means all of these match. OR means any one of them. This does not change the radio type, the “only” switches, Hide Mine, Hide Fast Pair, or a hide list.",
+  "slot": "BODY",
+  "cap": 468,
+  "ph": []
+ },
+ {
+  "key": "ui.reset.filter.2",
+  "text": "Reset filter?",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.clears.radios.classes.selected",
+  "text": "Clears the radios, classes, selected signatures, signal strength, and name and vendor fields.",
+  "slot": "BODY",
+  "cap": 279,
+  "ph": []
+ },
+ {
+  "key": "ui.presets.saved.stay.live",
+  "text": "Presets you saved stay. Live shows the radios again. This cannot be undone.",
+  "slot": "BODY",
+  "cap": 225,
+  "ph": []
+ },
+ {
+  "key": "ui.reset.label",
+  "text": "Reset",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.preset",
+  "text": "Delete preset?",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.label",
+  "text": "Delete",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.moving.label",
+  "text": "Moving with you",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.seen.more.than.one",
+  "text": "Seen at more than one place",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.new.detections",
+  "text": "New detections",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.loud.bluetooth.radios.stay",
+  "text": "Loud Bluetooth radios that stay with you.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.heard.another.place.last",
+  "text": "Heard at another place in the last 7 days.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.hides.radios.already.here",
+  "text": "Hides radios already here. Learning Wi-Fi.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.hides.radios.already.here.2",
+  "text": "Hides radios already here.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fast.pair",
+  "text": "Fast Pair",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.vendor.label",
+  "text": "Vendor",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.new.signature",
+  "text": "New signature",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.tap.class.open.its",
+  "text": "Tap a class to open its signatures. Bookmark to alert.",
+  "slot": "BODY",
+  "cap": 162,
+  "ph": []
+ },
+ {
+  "key": "ui.tap.edit.bookmark.alert",
+  "text": "Tap to edit. Bookmark to alert.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.beep.when.signature.appears",
+  "text": "Beep when this signature appears",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.edit.signature",
+  "text": "Edit signature",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.shows.radio.detail.matching",
+  "text": "Shows on radio detail for matching radios, and in Share / AI Export.",
+  "slot": "BODY",
+  "cap": 204,
+  "ph": []
+ },
+ {
+  "key": "ui.optional.if.not.empty",
+  "text": "Optional. If this is not empty, matching radios get a “!” on Live, this amber card on detail, and a line in Debrief.",
+  "slot": "BODY",
+  "cap": 348,
+  "ph": []
+ },
+ {
+  "key": "ui.matching.label",
+  "text": "Matching",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.class.filters.uses.show",
+  "text": "This is the class Filters uses. Show only or Hide these applies to every signature in that class.",
+  "slot": "BODY",
+  "cap": 291,
+  "ph": []
+ },
+ {
+  "key": "ui.match.any.rule",
+  "text": "Match any rule (OR)",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.cluster.oui",
+  "text": "Cluster by OUI",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.sequential.macs",
+  "text": "Sequential MACs",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.min.peers.0.3",
+  "text": "Min peers (0 = 3 when clustering)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.peer.window.seconds",
+  "text": "Peer window (seconds)",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.color.label",
+  "text": "Color",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.stock.colors.follow.class",
+  "text": "Stock colors follow the class. You can change this one.",
+  "slot": "BODY",
+  "cap": 165,
+  "ph": []
+ },
+ {
+  "key": "ui.rules.label",
+  "text": "Rules",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.off.keeps.rule.stops",
+  "text": "Off keeps the rule and stops it from matching.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.add.rule",
+  "text": "Add rule",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.optional.after.signature.matches",
+  "text": "Optional. After this signature matches, map cleartext BLE bytes to labels. Encrypted payloads stay hex.",
+  "slot": "BODY",
+  "cap": 309,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.signature",
+  "text": "Delete signature",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.signature.2",
+  "text": "Delete this signature?",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.selected.color",
+  "text": "Selected color",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.kind.label",
+  "text": "Kind",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.rule",
+  "text": "Delete rule",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.value.label",
+  "text": "Value",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.company.id.hex",
+  "text": "Company ID hex",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.data.prefix.hex",
+  "text": "Data prefix hex",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.service.uuid.empty.any",
+  "text": "Service UUID (empty = any, contains)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.contains.hex",
+  "text": "Contains hex",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.name.contains",
+  "text": "Name contains",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.name.glob",
+  "text": "Name glob",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.manufacturer.id",
+  "text": "Manufacturer ID",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.manufacturer.data",
+  "text": "Manufacturer data",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.radio.kind",
+  "text": "Radio kind",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.vendor.ie.oui",
+  "text": "Vendor IE OUI",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.night.mode",
+  "text": "Night mode",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.red.black.so.dark",
+  "text": "Red on black so a dark sit stays dim. Phone brightness does not change.",
+  "slot": "BODY",
+  "cap": 213,
+  "ph": []
+ },
+ {
+  "key": "ui.keep.screen",
+  "text": "Keep screen on",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.screen.stays.awake.while",
+  "text": "The screen stays awake while Fieldwatch is open. Hunt keeps it on either way. The scan still runs from the notification if you leave. Turn this off when you pocket the phone.",
+  "slot": "BODY",
+  "cap": 522,
+  "ph": []
+ },
+ {
+  "key": "ui.privacy.mode",
+  "text": "Privacy mode",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.hides.last.half.each",
+  "text": "Hides the last half of each MAC on screen and in sit reports. Coordinates show as masked. Debrief and Places leave the street off. The Path map still shows the chosen map when Online place names and maps is on. The vendor prefix stays. Logs, matching, and Hunt still use the real MAC and position. The TAK feed pauses. Turn this off when you need the full MAC on screen.",
+  "slot": "BODY",
+  "cap": 700,
+  "ph": []
+ },
+ {
+  "key": "ui.battery.saver",
+  "text": "Battery saver",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.balanced.label",
+  "text": "Balanced",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.high.performance",
+  "text": "High performance",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.reads.every",
+  "text": "Wi-Fi reads every access point at once, then waits. Battery saver waits about 55 seconds, Balanced about 40, and High performance about 30. Bluetooth keeps listening between those scans. Faster Wi-Fi AP scans, below, can be quicker.",
+  "slot": "BODY",
+  "cap": 696,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.waiting.os",
+  "text": "Wi-Fi waiting on OS",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.scanning",
+  "text": "Wi-Fi scanning",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.next.99s",
+  "text": "Wi-Fi next 99s",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.faster.wi.fi.ap",
+  "text": "Faster Wi-Fi AP scans",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.older.than.android",
+  "text": "This phone is older than Android 11, so Fieldwatch cannot tell if Wi-Fi scan throttling is on. The switch stays off.",
+  "slot": "BODY",
+  "cap": 348,
+  "ph": []
+ },
+ {
+  "key": "ui.new.access.point.list",
+  "text": "On. A new access-point list about every 8 seconds. Uses more battery. This matches Wi-Fi scan throttling in Developer options.",
+  "slot": "BODY",
+  "cap": 378,
+  "ph": []
+ },
+ {
+  "key": "ui.off.android.limiting.wi",
+  "text": "Off. Android is limiting Wi-Fi scans to about four per two minutes. Tap the switch to open Developer options.",
+  "slot": "BODY",
+  "cap": 327,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.older.than.android.2",
+  "text": "This phone is older than Android 11, so Fieldwatch cannot tell if Wi-Fi scan throttling is on. Faster scanning stays off.",
+  "slot": "BODY",
+  "cap": 363,
+  "ph": []
+ },
+ {
+  "key": "ui.opens.developer.options.turn",
+  "text": "This opens Developer options. Turn Wi-Fi scan throttling off. Fieldwatch matches that switch when you come back.",
+  "slot": "BODY",
+  "cap": 336,
+  "ph": []
+ },
+ {
+  "key": "ui.opens.developer.options.turn.2",
+  "text": "This opens Developer options. Turn Wi-Fi scan throttling on to use the normal wait. Fieldwatch matches that switch when you come back.",
+  "slot": "BODY",
+  "cap": 402,
+  "ph": []
+ },
+ {
+  "key": "ui.open.developer.options",
+  "text": "Open developer options",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.ok.label",
+  "text": "OK",
+  "slot": "CONTROL",
+  "cap": 4,
+  "ph": []
+ },
+ {
+  "key": "ui.not.now",
+  "text": "Not now",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.allow.background.usage",
+  "text": "Allow background usage",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.opens.app.s.battery",
+  "text": "Opens this app’s battery page. Turn on Allow background usage there. If it is off, Android can stop the scan when you leave.",
+  "slot": "BODY",
+  "cap": 372,
+  "ph": []
+ },
+ {
+  "key": "ui.unrestricted.battery",
+  "text": "Unrestricted battery",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.opens.same.battery.page",
+  "text": "Opens the same battery page. Choose Unrestricted. On some phones, including Samsung, tap Allow background usage first, then choose Unrestricted.",
+  "slot": "BODY",
+  "cap": 432,
+  "ph": []
+ },
+ {
+  "key": "ui.opens.fieldwatch.s.battery",
+  "text": "This opens Fieldwatch’s battery page. Turn on Allow background usage. Fieldwatch matches it when you come back.",
+  "slot": "BODY",
+  "cap": 333,
+  "ph": []
+ },
+ {
+  "key": "ui.choose.unrestricted.some.phones",
+  "text": "Choose Unrestricted. On some phones, including Samsung, tap the words Allow background usage, then choose Unrestricted. Fieldwatch matches it when you come back.",
+  "slot": "BODY",
+  "cap": 483,
+  "ph": []
+ },
+ {
+  "key": "ui.open.android.settings",
+  "text": "Open Android settings",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.watchlist.alerts",
+  "text": "Watchlist alerts",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.beep.voice.flash.jump",
+  "text": "Beep, voice, flash, and the jump when a bookmarked signature or named radio appears. If this is off, bookmarks stay, and Fieldwatch stays quiet.",
+  "slot": "BODY",
+  "cap": 432,
+  "ph": []
+ },
+ {
+  "key": "ui.beep.watched.signature",
+  "text": "Beep on watched signature",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.double.pip.media.volume",
+  "text": "A double pip on the media volume when a watched radio first appears, or comes back after leaving. It does not repeat while that radio stays in view. You can use the beep, the voice, or both. Turn the media volume up if you hear nothing, then tap Test alert.",
+  "slot": "BODY",
+  "cap": 700,
+  "ph": []
+ },
+ {
+  "key": "ui.voice.watched.signature",
+  "text": "Voice on watched signature",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.says.class.signature.same",
+  "text": "Says the class or the signature, on the same volume as the beep. A second hit is skipped if Fieldwatch is already speaking. With no speech engine, the beep still plays if Beep is on.",
+  "slot": "BODY",
+  "cap": 546,
+  "ph": []
+ },
+ {
+  "key": "ui.what.say",
+  "text": "What to say",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.class.group.live.such",
+  "text": "Class is the group on Live, such as finder tags or audio. Signature is the catalog name, such as Apple AirTags. Class + signature says both. A named radio with Alert on always says the name you gave it.",
+  "slot": "BODY",
+  "cap": 606,
+  "ph": []
+ },
+ {
+  "key": "ui.test.alert",
+  "text": "Test alert",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.jump.new.watched.detection",
+  "text": "Jump to new watched detection",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.live.scrolls.new.watched",
+  "text": "Live scrolls to a new watched radio so you can see the flash. Needs the beep or the voice. Turn this off if you do not want the list to move.",
+  "slot": "BODY",
+  "cap": 423,
+  "ph": []
+ },
+ {
+  "key": "ui.system.notification",
+  "text": "System notification",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.silent.notification.when.watched",
+  "text": "A silent notification when a watched radio appears. The beep and the flash are enough for most sits.",
+  "slot": "BODY",
+  "cap": 300,
+  "ph": []
+ },
+ {
+  "key": "ui.tag.detections.gps",
+  "text": "Tag detections with GPS",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.stamps.phone.s.position",
+  "text": "Stamps this phone’s position on each detection: Live detail, Moving with you, Places, Debrief, and new log rows.",
+  "slot": "BODY",
+  "cap": 336,
+  "ph": []
+ },
+ {
+  "key": "ui.where.were.not.location",
+  "text": "That is where you were, not a location from the other radio.",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.use.high.accuracy.location",
+  "text": "Use high-accuracy location, or the path stays empty.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.heard.here.tak.pins",
+  "text": "Heard-here TAK pins need this. Remote ID uses the coordinates in the advertisement.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.off.keep.position",
+  "text": "Turn this off to keep your position out of the logs.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.places.label",
+  "text": "Places",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.finder.tag.keeps.its",
+  "text": "A finder tag that keeps its address, or a Remote ID, is listed on its page and in the sit report when this phone hears it at two or more places in the last 7 days.",
+  "slot": "BODY",
+  "cap": 489,
+  "ph": []
+ },
+ {
+  "key": "ui.each.line.where.phone",
+  "text": "Each line is where this phone was. Online place names adds the street.",
+  "slot": "BODY",
+  "cap": 210,
+  "ph": []
+ },
+ {
+  "key": "ui.return.after.quiet.stretch",
+  "text": "A return after a quiet stretch is listed on its page.",
+  "slot": "BODY",
+  "cap": 159,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.radio.changes.its",
+  "text": "A Bluetooth radio that changes its address is skipped, unless it has a Remote ID. Ordinary Wi-Fi stays off.",
+  "slot": "BODY",
+  "cap": 321,
+  "ph": []
+ },
+ {
+  "key": "ui.needs.tag.detections.gps",
+  "text": "Needs Tag detections with GPS. There is no beep.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.online.place.names.maps",
+  "text": "Online place names and maps",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.internet.debrief.places.turn",
+  "text": "With internet, Debrief and Places turn coordinates into a street and city, and Reports → Path loads a map under the trace.",
+  "slot": "BODY",
+  "cap": 366,
+  "ph": []
+ },
+ {
+  "key": "ui.nothing.sent.fieldwatch.server",
+  "text": "Nothing is sent to a Fieldwatch server.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.offline.debrief.keeps.coordinates",
+  "text": "Offline, Debrief keeps the coordinates and Path stays a plain trace.",
+  "slot": "BODY",
+  "cap": 204,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.off.leave.streets",
+  "text": "Turn this off to leave streets and the map out.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.gnss.interference.check",
+  "text": "GNSS interference check",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.detects.interference.spoofing.gnss",
+  "text": "Detects interference and spoofing of GNSS (GPS) satellites.",
+  "slot": "BODY",
+  "cap": 177,
+  "ph": []
+ },
+ {
+  "key": "ui.interference.can.also.caused",
+  "text": "Interference can also be caused by other nearby electronics, such as Wi-Fi routers.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.cannot.tell.source",
+  "text": "Fieldwatch cannot tell the source or the distance.",
+  "slot": "BODY",
+  "cap": 150,
+  "ph": []
+ },
+ {
+  "key": "ui.hit.already.under.way",
+  "text": "A hit already under way when the check starts can be missed.",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.hit.opens.popup.after",
+  "text": "A hit opens a popup. After you dismiss it, a red line stays on Live until it ends.",
+  "slot": "BODY",
+  "cap": 246,
+  "ph": []
+ },
+ {
+  "key": "ui.calibrate.phone.before.turning",
+  "text": "Calibrate this phone before turning the check on.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.stop.calibration",
+  "text": "Stop calibration",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.calibrate.phone",
+  "text": "Calibrate this phone",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.stand.outside.hold.still",
+  "text": "Stand outside, hold still, and stay away from a router. This takes about a minute.",
+  "slot": "BODY",
+  "cap": 246,
+  "ph": []
+ },
+ {
+  "key": "ui.result.stays.phone.until",
+  "text": "The result stays on this phone until you calibrate again. It is not part of Export settings.",
+  "slot": "BODY",
+  "cap": 276,
+  "ph": []
+ },
+ {
+  "key": "ui.sensitivity.label",
+  "text": "Sensitivity",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.low.waits.deeper.drop",
+  "text": "Low waits for a deeper drop. High alerts on a smaller drop, including some routers.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.alert.label.2",
+  "text": "Alert from",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.popup.red.line.beep",
+  "text": "The popup, red line, beep, and voice start at this level. A weaker hit still shows in Diagnostics and in the sit report.",
+  "slot": "BODY",
+  "cap": 360,
+  "ph": []
+ },
+ {
+  "key": "ui.spoofing.checks",
+  "text": "Spoofing checks",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.warns.when.gain.falls",
+  "text": "Warns when gain falls while the signal holds. A clock mismatch, a position mismatch, or a jump that is too fast can raise that. One of those on its own does not warn. A careful fake GPS signal can still get past these checks.",
+  "slot": "BODY",
+  "cap": 675,
+  "ph": []
+ },
+ {
+  "key": "ui.same.pip.watchlist.hit",
+  "text": "The same pip as a watchlist hit, on the media volume. The popup and the red line still show if this is off.",
+  "slot": "BODY",
+  "cap": 321,
+  "ph": []
+ },
+ {
+  "key": "ui.voice.label",
+  "text": "Voice",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.says.possible.gps.interference",
+  "text": "Says possible GPS interference, or possible GPS spoofing. It speaks again only when the level goes up. Uses the media volume. Separate from the watchlist Voice switch.",
+  "slot": "BODY",
+  "cap": 501,
+  "ph": []
+ },
+ {
+  "key": "ui.silent.notification.warning.popup",
+  "text": "A silent notification for this warning. The popup and the red line still show if this is off. Separate from the watchlist switch.",
+  "slot": "BODY",
+  "cap": 387,
+  "ph": []
+ },
+ {
+  "key": "ui.record.raw.gnss.during",
+  "text": "Record raw GNSS during interference",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.saves.phone.s.raw",
+  "text": "Saves this phone’s raw GPS measurements from about a minute before a hit until 30 seconds after it ends.",
+  "slot": "BODY",
+  "cap": 312,
+  "ph": []
+ },
+ {
+  "key": "ui.file.stays.phone.until",
+  "text": "The file stays on this phone until you share it. Available while the check is on.",
+  "slot": "BODY",
+  "cap": 243,
+  "ph": []
+ },
+ {
+  "key": "ui.privacy.mode.does.not",
+  "text": "Privacy mode does not record. Older recordings are removed when the saved files pass about 20 MB.",
+  "slot": "BODY",
+  "cap": 291,
+  "ph": []
+ },
+ {
+  "key": "ui.share.last.recording",
+  "text": "Share last recording",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.share.label",
+  "text": "Share",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.full.tracking",
+  "text": "Full tracking",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.keeps.gps.receiver.awake",
+  "text": "Keeps the GPS receiver awake instead of letting it rest. Uses more battery. Android 12 and newer. Older phones ignore this.",
+  "slot": "BODY",
+  "cap": 369,
+  "ph": []
+ },
+ {
+  "key": "ui.fading.together.check",
+  "text": "Fading-together check",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.watches.satellites.fading.same",
+  "text": "Watches for satellites fading at the same time. A hand, a pocket, or getting in a car can do that. Leave this off unless you are testing it.",
+  "slot": "BODY",
+  "cap": 420,
+  "ph": []
+ },
+ {
+  "key": "ui.invert.gain",
+  "text": "Invert gain",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.few.phones.report.gain",
+  "text": "A few phones report gain backwards. Turn this on only if a Wi-Fi router makes the AGC number in Diagnostics go up.",
+  "slot": "BODY",
+  "cap": 342,
+  "ph": []
+ },
+ {
+  "key": "ui.tak.cot.feed",
+  "text": "TAK / CoT feed",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.sends.map.markers.atak",
+  "text": "Sends map markers to ATAK, WinTAK, or iTAK.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.hear.pinned.phone",
+  "text": "Radios you hear are pinned at this phone’s GPS, at the loudest point, and labeled (here).",
+  "slot": "BODY",
+  "cap": 267,
+  "ph": []
+ },
+ {
+  "key": "ui.walking.away.does.not",
+  "text": "Walking away does not move the pin. A louder detection does.",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.remote.id.aircraft.use",
+  "text": "Remote ID aircraft use the coordinates in the advertisement. An operator location is a second pin: the takeoff spot, the pilot, or a fixed point.",
+  "slot": "BODY",
+  "cap": 435,
+  "ph": []
+ },
+ {
+  "key": "ui.radio.leaves.keeps.its",
+  "text": "A radio that leaves keeps its name for How long a spot stays. Tap a marker for the name, MAC, and signal.",
+  "slot": "BODY",
+  "cap": 315,
+  "ph": []
+ },
+ {
+  "key": "ui.not.direction.finding.privacy",
+  "text": "This is not direction finding. Privacy mode pauses the feed.",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.privacy.mode.so.feed",
+  "text": "Privacy mode is on, so the feed is paused. Turn Privacy mode off to send markers.",
+  "slot": "BODY",
+  "cap": 243,
+  "ph": []
+ },
+ {
+  "key": "ui.write.detections.disk",
+  "text": "Write detections to disk",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.logging.new.detections.added",
+  "text": "Logging is on. New detections are added to the file.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.logging.off.scanning.still",
+  "text": "Logging is off. Scanning still runs. Nothing new is written until you turn this on.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.file.disk.one.detection",
+  "text": "The file on disk is one detection per line. Reports → Log Export can share or save CSV, JSON, GPX, KML, or WiGLE.",
+  "slot": "BODY",
+  "cap": 339,
+  "ph": []
+ },
+ {
+  "key": "ui.when.log.file.reaches",
+  "text": "When the log file reaches this size, Fieldwatch starts a new one. It keeps 12 files.",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.radio.marked.gone.live",
+  "text": "A radio is marked gone on Live this long after it was last heard. Brief hold in Display can keep it longer.",
+  "slot": "BODY",
+  "cap": 321,
+  "ph": []
+ },
+ {
+  "key": "ui.share.save.reset.clear",
+  "text": "Share, Save, and Reset / clear log are on the Reports tab.",
+  "slot": "BODY",
+  "cap": 174,
+  "ph": []
+ },
+ {
+  "key": "ui.export.shares.catalog.including",
+  "text": "Export shares the catalog, including signatures you added. Import adds rows and does not delete any. Update stock catalog from GitHub refreshes the stock signatures and leaves yours, your bookmarks, and your settings. It needs internet. Restore defaults puts the stock catalog, colors, bookmarks, filters, and switches back. Signatures and filters you added are deleted.",
+  "slot": "BODY",
+  "cap": 700,
+  "ph": []
+ },
+ {
+  "key": "ui.export.signatures",
+  "text": "Export signatures",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.save.signatures.sd.card",
+  "text": "Save signatures to SD card / storage…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.import.signatures",
+  "text": "Import signatures…",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.update.stock.catalog.github",
+  "text": "Update stock catalog from GitHub",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.restore.default.signatures.presets",
+  "text": "Restore default signatures & presets",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.saves.switches.filters.presets",
+  "text": "Saves switches, filters, presets, named radios, and bookmarks. Not the catalog, the GNSS calibration, or logs.",
+  "slot": "BODY",
+  "cap": 330,
+  "ph": []
+ },
+ {
+  "key": "ui.catalog.signatures.import.replaces",
+  "text": "The catalog is on Signatures. Import replaces those items on this phone and leaves the catalog.",
+  "slot": "BODY",
+  "cap": 285,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.asks.before.file",
+  "text": "Fieldwatch asks before a file turns the TAK feed on or changes where it sends.",
+  "slot": "BODY",
+  "cap": 234,
+  "ph": []
+ },
+ {
+  "key": "ui.export.settings",
+  "text": "Export settings",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.save.settings.sd.card",
+  "text": "Save settings to SD card / storage…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.import.settings",
+  "text": "Import settings…",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.show.live.tour",
+  "text": "Show Live tour",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.shows.live.tour.again",
+  "text": "Shows the Live tour again. It points at the sliders for how Live looks.",
+  "slot": "BODY",
+  "cap": 213,
+  "ph": []
+ },
+ {
+  "key": "ui.diagnostics.label",
+  "text": "Diagnostics",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.shows.whether.scanning.running",
+  "text": "Shows whether scanning is running, what is blocking it, and the phone settings that affect the scan, including Wi-Fi, Bluetooth, Location, GPS, battery, and the GNSS check.",
+  "slot": "BODY",
+  "cap": 516,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.s.ipv4.none",
+  "text": "This phone’s IPv4  ·  none",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.import.settings.2",
+  "text": "Import settings?",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.restore.defaults",
+  "text": "Restore defaults?",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.replaces.stock.catalog.colors",
+  "text": "Replaces the stock catalog, colors, stock bookmarks, stock filters, and the default switches.",
+  "slot": "BODY",
+  "cap": 279,
+  "ph": []
+ },
+ {
+  "key": "ui.signatures.filters.added.deleted",
+  "text": "Signatures and filters you added are deleted. Export those first if you want a backup.",
+  "slot": "BODY",
+  "cap": 258,
+  "ph": []
+ },
+ {
+  "key": "ui.cannot.undone",
+  "text": "This cannot be undone.",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.restore.label",
+  "text": "Restore",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.1.radio",
+  "text": "1 radio",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.needs.calibration",
+  "text": "Needs a calibration",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.on.label",
+  "text": "On",
+  "slot": "CONTROL",
+  "cap": 4,
+  "ph": []
+ },
+ {
+  "key": "ui.off.label",
+  "text": "Off",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.paused.label",
+  "text": "Paused",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.export.import",
+  "text": "Export and import",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.copyright.c.2026.off",
+  "text": "Copyright (c) 2026 Off Grid Pete LLC. All rights reserved.",
+  "slot": "BODY",
+  "cap": 174,
+  "ph": []
+ },
+ {
+  "key": "ui.offgridpete.label",
+  "text": "@OffGridPete",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.ogridpete.label",
+  "text": "@OGridPete",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.label",
+  "text": "This phone",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.tak.callsign",
+  "text": "TAK callsign",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.new.tag",
+  "text": "New tag",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.each.phone.has.its",
+  "text": "Each phone has its own tag, so two phones are two markers. Export settings does not copy the tag.",
+  "slot": "BODY",
+  "cap": 291,
+  "ph": []
+ },
+ {
+  "key": "ui.new.tag.gives.phone",
+  "text": "New tag gives this phone a new marker. A name you typed stays.",
+  "slot": "BODY",
+  "cap": 186,
+  "ph": []
+ },
+ {
+  "key": "ui.if.feed.markers.phone",
+  "text": "If the feed is on, markers this phone already sent can drop off.",
+  "slot": "BODY",
+  "cap": 192,
+  "ph": []
+ },
+ {
+  "key": "ui.destination.label",
+  "text": "Destination",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.lan.multicast",
+  "text": "LAN multicast",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.custom.label",
+  "text": "Custom",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.custom.one.address.udp",
+  "text": "Custom is one address. UDP only. A TAK server on TCP 8087 is not this feed.",
+  "slot": "BODY",
+  "cap": 225,
+  "ph": []
+ },
+ {
+  "key": "ui.host.label",
+  "text": "Host",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.port.label",
+  "text": "Port",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.what.send",
+  "text": "What to send",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.payload.location",
+  "text": "Payload location",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.all.signatures",
+  "text": "All signatures",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.any.combination.extra",
+  "text": "Turn on any combination. Extra attention sends signatures marked Extra attention, such as body cameras, glasses, recorders, and pentest gear.",
+  "slot": "BODY",
+  "cap": 423,
+  "ph": []
+ },
+ {
+  "key": "ui.payload.location.sends.remote",
+  "text": "Payload location sends Remote ID and any radio that advertises its own coordinates.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.watchlist.sends.bookmarked.signatures",
+  "text": "Watchlist sends bookmarked signatures and named radios with Alert on.",
+  "slot": "BODY",
+  "cap": 207,
+  "ph": []
+ },
+ {
+  "key": "ui.all.signatures.sends.every",
+  "text": "All signatures sends every labeled radio, which is noisy in a crowd.",
+  "slot": "BODY",
+  "cap": 204,
+  "ph": []
+ },
+ {
+  "key": "ui.unmatched.radios.never.sent",
+  "text": "Unmatched radios are never sent. A pin needs coordinates, from the advertisement or from Tag detections with GPS.",
+  "slot": "BODY",
+  "cap": 339,
+  "ph": []
+ },
+ {
+  "key": "ui.how.long.spot.stays",
+  "text": "How long a spot stays",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.after.radio.leaves.spot",
+  "text": "After a radio leaves, the spot keeps its name for this long. The time starts when it leaves.",
+  "slot": "BODY",
+  "cap": 276,
+  "ph": []
+ },
+ {
+  "key": "ui.until.deleted.stays.until",
+  "text": "Until deleted stays until the feed is turned off.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.s.marker.stays",
+  "text": "This phone’s marker stays for about 2 minutes.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.mark.map.where.phone",
+  "text": "A mark on the map where this phone was, and a line on this phone’s marker.",
+  "slot": "BODY",
+  "cap": 222,
+  "ph": []
+ },
+ {
+  "key": "ui.short.hit.pin.hit",
+  "text": "A short hit is a pin. A hit that continues while the phone moves becomes an ellipse from the start to the last place it was heard, half as wide as it is long.",
+  "slot": "BODY",
+  "cap": 474,
+  "ph": []
+ },
+ {
+  "key": "ui.mark.does.not.say",
+  "text": "The mark does not say where the cause is.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.off.sends.nothing.while",
+  "text": "Off sends nothing. While alerting sends during a hit at or above Alert from.",
+  "slot": "BODY",
+  "cap": 228,
+  "ph": []
+ },
+ {
+  "key": "ui.red.line.also.keeps",
+  "text": "Red line also keeps the line for the 10 minutes after. The ellipse stops growing when the hit ends.",
+  "slot": "BODY",
+  "cap": 297,
+  "ph": []
+ },
+ {
+  "key": "ui.any.hit.also.sends",
+  "text": "Any hit also sends a Low detection that never shows the red line.",
+  "slot": "BODY",
+  "cap": 195,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.needs.gps.fix",
+  "text": "This phone needs a GPS fix.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.how.long.mark.stays",
+  "text": "How long the mark stays",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.time.starts.last.update",
+  "text": "The time starts at the last update. Until deleted stays until GNSS is set to Off.",
+  "slot": "BODY",
+  "cap": 243,
+  "ph": []
+ },
+ {
+  "key": "ui.floods.label",
+  "text": "Floods",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.adds.note.phone.s",
+  "text": "Adds a note to this phone’s marker when a flood is detected, until the flood ends. Not its own pin.",
+  "slot": "BODY",
+  "cap": 297,
+  "ph": []
+ },
+ {
+  "key": "ui.does.not.change.red",
+  "text": "This does not change the red line on Live. A store full of radios advertising pairing can cause this.",
+  "slot": "BODY",
+  "cap": 303,
+  "ph": []
+ },
+ {
+  "key": "ui.note.does.not.say",
+  "text": "The note does not say it was one radio, and it does not name a tool. This phone needs a GPS fix.",
+  "slot": "BODY",
+  "cap": 288,
+  "ph": []
+ },
+ {
+  "key": "ui.feed.status.paused.privacy",
+  "text": "Feed status  ·  paused (Privacy mode)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.feed.status.no.send",
+  "text": "Feed status  ·  no send yet this session",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.what.check",
+  "text": "What to check",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.diagnostics",
+  "text": "Fieldwatch diagnostics",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.copy.label",
+  "text": "Copy",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.copied.label",
+  "text": "Copied.",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.details.label",
+  "text": "Details",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.burst",
+  "text": "Hide this burst",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.continue.label",
+  "text": "Continue",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "crash.closed",
+  "text": "Fieldwatch closed unexpectedly",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "crash.send",
+  "text": "Copy this and send it.",
+  "slot": "BODY",
+  "cap": 80,
+  "ph": []
+ },
+ {
+  "key": "ui.display.paused.radios.still",
+  "text": "Display paused · radios still scanning and logging. Filters still apply when you run again. Tap Live to run the list again.",
+  "slot": "BODY",
+  "cap": 369,
+  "ph": []
+ },
+ {
+  "key": "ui.new.only.learning.sitting",
+  "text": "New only · learning sitting Wi-Fi",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.new.only",
+  "text": "New only",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.memory.cap",
+  "text": "· memory cap",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.rename.sit",
+  "text": "Rename sit",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.location.off.android.will",
+  "text": "Location is off. Android will not return Wi-Fi or Bluetooth results.",
+  "slot": "BODY",
+  "cap": 204,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.label",
+  "text": "Turn on",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.settings.location.places",
+  "text": "Turn on Settings → Location → Places.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.settings.tag.detections",
+  "text": "Turn on Settings → Tag detections with GPS. Places needs a fix on this phone.",
+  "slot": "BODY",
+  "cap": 231,
+  "ph": []
+ },
+ {
+  "key": "ui.new.detections.only.hides",
+  "text": "New detections only hides radios already heard. Turn it off to use Seen at more than one place.",
+  "slot": "BODY",
+  "cap": 285,
+  "ph": []
+ },
+ {
+  "key": "ui.nothing.can.hear.right",
+  "text": "Nothing you can hear right now was already heard at another place. A radio that changes its address will not match.",
+  "slot": "BODY",
+  "cap": 345,
+  "ph": []
+ },
+ {
+  "key": "ui.moving.needs.settings.tag",
+  "text": "Moving with you needs Settings → Tag detections with GPS, then a walk or drive.",
+  "slot": "BODY",
+  "cap": 237,
+  "ph": []
+ },
+ {
+  "key": "ui.no.loud.ble.has",
+  "text": "No loud BLE has stayed with you among the radios still allowed.",
+  "slot": "BODY",
+  "cap": 189,
+  "ph": []
+ },
+ {
+  "key": "ui.tap.moving.preset.test",
+  "text": "Tap the Moving with you preset to test BLE, or turn off Keep signature matches only / Show only / Keep named only / Keep watched only.",
+  "slot": "BODY",
+  "cap": 402,
+  "ph": []
+ },
+ {
+  "key": "ui.no.loud.ble.has.2",
+  "text": "No loud BLE has stayed with you along this path. Wi-Fi access points stay hidden. Radios marked Mine stay off this list.",
+  "slot": "BODY",
+  "cap": 360,
+  "ph": []
+ },
+ {
+  "key": "ui.no.loud.ble.has.3",
+  "text": "No loud BLE has stayed with you along this path. Wi-Fi access points stay hidden. A tag in your bag or car should show. Find My MAC rotation will not stitch.",
+  "slot": "BODY",
+  "cap": 471,
+  "ph": []
+ },
+ {
+  "key": "ui.hiding.sitting.access.points",
+  "text": "Hiding sitting access points until the next Wi-Fi scan. New Bluetooth still shows right away.",
+  "slot": "BODY",
+  "cap": 279,
+  "ph": []
+ },
+ {
+  "key": "ui.waiting.new.wi.fi",
+  "text": "Waiting for a new Wi-Fi or BLE radio. It stays while we hear it, then at least as long as Brief hold after the last packet.",
+  "slot": "BODY",
+  "cap": 369,
+  "ph": []
+ },
+ {
+  "key": "ui.no.watched.radios.air",
+  "text": "No watched radios on the air. Bookmark a signature, turn Alert on a Named radio, or turn off Filters → Keep watched only.",
+  "slot": "BODY",
+  "cap": 363,
+  "ph": []
+ },
+ {
+  "key": "ui.no.named.radios.air",
+  "text": "No named radios on the air. Set a custom name on detail, or turn off Filters → Keep named only.",
+  "slot": "BODY",
+  "cap": 285,
+  "ph": []
+ },
+ {
+  "key": "ui.no.live.emitters.match",
+  "text": "No live emitters match the current filter. If this just emptied, the OS may be between scan windows — the last set is held and should return without a burst. Use Timeline for recent disappearances.",
+  "slot": "BODY",
+  "cap": 591,
+  "ph": []
+ },
+ {
+  "key": "ui.no.live.emitters.match.2",
+  "text": "No live emitters match the current filter. If this just emptied, the OS may be between scan windows — the last set is held and should return without a burst.",
+  "slot": "BODY",
+  "cap": 471,
+  "ph": []
+ },
+ {
+  "key": "ui.no.devices.match.current",
+  "text": "No devices match the current filter",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.pinch.zoom",
+  "text": "· pinch to zoom",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.alerted.session",
+  "text": "Alerted this session",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.last.15.minutes.solid",
+  "text": "Last 15 minutes · solid bars are on-air windows",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.privacy.mode.debrief.compare",
+  "text": "Privacy mode is on. Debrief, Compare, and AI Export hide the last half of each MAC, the coordinates, and a Remote ID id. The log and sit export still have the full addresses and coordinates.",
+  "slot": "BODY",
+  "cap": 570,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.heard.during.named",
+  "text": "Radios heard during a named stretch of time",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.end.sit",
+  "text": "End sit",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.start.sit",
+  "text": "Start sit",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.select.sit.actions.below",
+  "text": "Select Sit for actions below.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.saved.sits",
+  "text": "No saved sits.",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.last.15.minutes",
+  "text": "Last 15 minutes",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.uses.what.still.memory",
+  "text": "Uses what is still in memory, not a saved sit.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.end.sit.pick.saved",
+  "text": "End this sit to pick a saved one.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.rename.label",
+  "text": "Rename",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.all.sits",
+  "text": "Delete all sits",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.export.file.current.log",
+  "text": "Export a file of the current log",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.search.log.new.signatures",
+  "text": "Search log for new signatures",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.tag.detections.gps",
+  "text": "Turn on Tag detections with GPS and walk, or pick a sit that recorded a path.",
+  "slot": "BODY",
+  "cap": 231,
+  "ph": []
+ },
+ {
+  "key": "ui.tap.number.radios.there",
+  "text": "Tap a number for the radios there. Tap one icon for that radio. Tap a row to open it. Tap a red diamond for that detection.",
+  "slot": "BODY",
+  "cap": 369,
+  "ph": []
+ },
+ {
+  "key": "ui.advertised.track.within.2",
+  "text": "= advertised track within 2 km of this path",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.one.advertised.position.within",
+  "text": "= one advertised position within 2 km of this path",
+  "slot": "BODY",
+  "cap": 150,
+  "ph": []
+ },
+ {
+  "key": "ui.operator.label",
+  "text": "= operator",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.where.phone.was.during",
+  "text": "= where this phone was during a GNSS detection",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.alerts.gps.stamp",
+  "text": "No alerts with a GPS stamp on this path.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.1.advertised.fix",
+  "text": "1 advertised fix",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.1.alert",
+  "text": "1 alert",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.advertised.position.no.uas",
+  "text": "An advertised position with no UAS id is in the sit report.",
+  "slot": "BODY",
+  "cap": 177,
+  "ph": []
+ },
+ {
+  "key": "ui.advertised.positions.no.uas",
+  "text": "Advertised positions with no UAS id are in the sit report.",
+  "slot": "BODY",
+  "cap": 174,
+  "ph": []
+ },
+ {
+  "key": "ui.debrief.text",
+  "text": "Debrief (text)",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.show.unmatched.rotating.ble",
+  "text": "Show unmatched rotating BLE",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.unmatched.bluetooth.changes.address",
+  "text": "Unmatched Bluetooth that changes address stays out of the lists.",
+  "slot": "BODY",
+  "cap": 192,
+  "ph": []
+ },
+ {
+  "key": "ui.show.all.radios",
+  "text": "Show all radios",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.lists.every.radio.off",
+  "text": "On lists every radio. Off lists the ones that stand out.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "ui.short.note.pasting.into",
+  "text": "A short note for pasting into a chat. It does not repeat the Debrief lists.",
+  "slot": "BODY",
+  "cap": 225,
+  "ph": []
+ },
+ {
+  "key": "ui.one.row.per.radio",
+  "text": "One row per radio in this sit, or the last 15 minutes. Not the log.",
+  "slot": "BODY",
+  "cap": 201,
+  "ph": []
+ },
+ {
+  "key": "ui.save.second.sit.compare",
+  "text": "Save a second sit to compare. Start a sit, then end it. The last 15 minutes can be this sit.",
+  "slot": "BODY",
+  "cap": 276,
+  "ph": []
+ },
+ {
+  "key": "ui.second.sit",
+  "text": "Second sit",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.compare.text",
+  "text": "Compare (text)",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.only.sit.only",
+  "text": "Radios only in this sit, only in the second, and in both.",
+  "slot": "BODY",
+  "cap": 171,
+  "ph": []
+ },
+ {
+  "key": "ui.short.note.what.overlaps",
+  "text": "A short note on what overlaps. It does not repeat the lists.",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.log.label",
+  "text": "Log",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.logging.off",
+  "text": "·  logging off",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.one.detection.per.line",
+  "text": "One detection per line. Points are where this phone was.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "ui.reset.clear.log",
+  "text": "Reset / clear log",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.clear.log",
+  "text": "Clear the log?",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.deletes.log.files.phone",
+  "text": "Deletes the log files on this phone. This cannot be undone. Scanning starts a new empty log.",
+  "slot": "BODY",
+  "cap": 276,
+  "ph": []
+ },
+ {
+  "key": "ui.clear.log.2",
+  "text": "Clear log",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.unmatched.radios.log.share",
+  "text": "Unmatched radios in the log that share an id. This reads the whole log, not the sit above, and it can take a while.",
+  "slot": "BODY",
+  "cap": 345,
+  "ph": []
+ },
+ {
+  "key": "ui.last.search.found.1",
+  "text": "Last search found 1 family.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.find.candidates",
+  "text": "Find candidates",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.debrief.ai.export.use",
+  "text": "Debrief and AI Export use this window until you end it. The Live list is unchanged.",
+  "slot": "BODY",
+  "cap": 249,
+  "ph": []
+ },
+ {
+  "key": "ui.start.label",
+  "text": "Start",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.sit",
+  "text": "Delete this sit?",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.removes.saved.sit.phone",
+  "text": "Removes the saved sit from this phone. The log is unchanged.",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.all.sits.2",
+  "text": "Delete all sits?",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.removes.saved.sits.phone",
+  "text": "Removes saved sits from this phone. An open sit is not deleted. The log is unchanged.",
+  "slot": "BODY",
+  "cap": 255,
+  "ph": []
+ },
+ {
+  "key": "ui.delete.all",
+  "text": "Delete all",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.signal.changed",
+  "text": "Signal changed.",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.last.15.minutes",
+  "text": "This sit: the last 15 minutes still in memory.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.last.15.minutes.2",
+  "text": "last 15 minutes",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.view.path.selected.sit",
+  "text": "View a path of the selected Sit",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.report.selected.sit",
+  "text": "Report of the selected Sit",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.export.file.selected.sit",
+  "text": "Export a file of the selected Sit",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.selected.sit.against.another",
+  "text": "Selected Sit against another",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.format.label",
+  "text": "Format",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.save.sd.card.storage",
+  "text": "Save to SD card / storage…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.last.15.minutes.still",
+  "text": "Last 15 minutes still in memory",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.now.label",
+  "text": "Now",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.end.label",
+  "text": "End",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.gnss.detection",
+  "text": "GNSS detection",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.1.alert.here",
+  "text": "1 alert here",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.disclaimer.license",
+  "text": "Disclaimer and license",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.disclaimer.label",
+  "text": "Disclaimer",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.i.have.read.i",
+  "text": "I have read this and I agree",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.needs.radios",
+  "text": "Fieldwatch needs the radios",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.location.nearby.wi.fi",
+  "text": "Location, nearby Wi-Fi, Bluetooth scan, and notifications let Fieldwatch passively watch advertised networks and BLE devices. Nothing is transmitted.",
+  "slot": "BODY",
+  "cap": 447,
+  "ph": []
+ },
+ {
+  "key": "ui.grant.permissions",
+  "text": "Grant permissions",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.compare",
+  "text": "sit compare",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.compare.pdf",
+  "text": "Sit compare PDF",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.compare.ai.export",
+  "text": "Sit compare AI Export",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.compare.2",
+  "text": "Sit compare",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.ai.export.2",
+  "text": "ai export",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.debrief.pdf",
+  "text": "Debrief PDF",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.export.label",
+  "text": "Export",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.please.wait",
+  "text": "Please wait…",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.live.logging.paused.until",
+  "text": "Live logging is paused until this finishes. Scanning continues.",
+  "slot": "BODY",
+  "cap": 189,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.export",
+  "text": "Could not export",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.log.saved",
+  "text": "Log saved",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.file.was.written.folder",
+  "text": "The file was written to the folder you picked. In the system picker, use the menu to choose the SD card if you want it off internal storage.",
+  "slot": "BODY",
+  "cap": 420,
+  "ph": []
+ },
+ {
+  "key": "ui.log.cleared",
+  "text": "Log cleared",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.rotated.files.were.deleted",
+  "text": "Rotated files were deleted. New detections will start a fresh log.",
+  "slot": "BODY",
+  "cap": 198,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.sit.paused",
+  "text": "FIELDWATCH  ·  SIT  ·  PAUSED",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.sit",
+  "text": "FIELDWATCH  ·  SIT",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.paused",
+  "text": "FIELDWATCH  ·  PAUSED",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.signatures.idle",
+  "text": "signatures idle",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.hide.scan.options",
+  "text": "Hide scan options",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.show.scan.options",
+  "text": "Show scan options",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.detail.label",
+  "text": "Detail",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.no.radio.selected",
+  "text": "No radio selected.",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.strongest.label",
+  "text": "Strongest",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.newest.heard",
+  "text": "Newest heard",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.newest.alert",
+  "text": "Newest alert",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.newest.arrival",
+  "text": "Newest arrival",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.new.bottom",
+  "text": "New at bottom",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.signatures.first",
+  "text": "Signatures first",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.display.label",
+  "text": "Display",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.view.label",
+  "text": "View",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.sort.label",
+  "text": "Sort",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.strongest.signal",
+  "text": "Strongest signal",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.strongest.avg.30s",
+  "text": "Strongest (avg 30s)",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.brief.hold",
+  "text": "Brief hold",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.off.stale.after.only",
+  "text": "Off — Stale after only",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.title.line",
+  "text": "Title line",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.subtitle.line",
+  "text": "Subtitle line",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.names",
+  "text": "Signature names",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.frequency.label",
+  "text": "Frequency",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.first.last.seen",
+  "text": "First / last seen",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.more.display.options.below",
+  "text": "More display options below",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.mark.seen",
+  "text": "Mark seen",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.reset.seen",
+  "text": "Reset seen",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.start.over",
+  "text": "Start over",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.open.display",
+  "text": "Open display",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.how.live.looks",
+  "text": "How Live looks",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.radar.list.timeline.hybrid",
+  "text": "Radar, list, timeline, hybrid, By class.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.pause.filters.signatures.reports",
+  "text": "Pause, Filters, Signatures, Reports, and Settings are along the bottom.",
+  "slot": "BODY",
+  "cap": 213,
+  "ph": []
+ },
+ {
+  "key": "ui.open.label",
+  "text": "Open it",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.skip.label",
+  "text": "Skip",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.unmatched.label",
+  "text": "Unmatched",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.advertiser",
+  "text": "BLE advertiser",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.export.fieldwatch.logs",
+  "text": "Export Fieldwatch logs",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.gnss.recording",
+  "text": "Fieldwatch GNSS recording",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.gnss.recording",
+  "text": "GNSS recording",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.writing.sit.compare",
+  "text": "Writing sit compare…",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.write.sit",
+  "text": "Could not write sit compare",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.writing.sit.compare.pdf",
+  "text": "Writing sit compare PDF…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.laying.out.sit.compare",
+  "text": "Laying out sit compare PDF…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.loading.map.tiles",
+  "text": "Loading map tiles…",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.write.sit.2",
+  "text": "Could not write sit compare PDF",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.sit.compare",
+  "text": "Fieldwatch sit compare",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.building.compare.ai.export",
+  "text": "Building compare AI export…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.write.compare",
+  "text": "Could not write compare AI export",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.matching.catalog",
+  "text": "Matching the catalog…",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.read.log",
+  "text": "Could not read the log",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.signatures",
+  "text": "Fieldwatch signatures",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.export.signatures",
+  "text": "Could not export signatures",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.signatures.saved",
+  "text": "Signatures saved",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.pack.was.written.folder",
+  "text": "The pack was written to the folder you picked. Share it with another Fieldwatch or keep it as a backup before Restore defaults.",
+  "slot": "BODY",
+  "cap": 381,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.save.signatures",
+  "text": "Could not save signatures",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.internet",
+  "text": "No internet",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.no.internet.use.import",
+  "text": "No internet. Use Import signatures from a file.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.updating.stock.catalog",
+  "text": "Updating stock catalog…",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.already.latest.catalog",
+  "text": "Already on the latest catalog",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.stock.rows.changed",
+  "text": "No stock rows changed.",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.catalog.updated",
+  "text": "Catalog updated",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.bookmarks.settings.were.not",
+  "text": "Bookmarks and Settings were not changed.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.decoding.skipped",
+  "text": "Signature decoding skipped",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.some.signature.field.maps",
+  "text": "Some signature field maps in this catalog need a newer Fieldwatch.",
+  "slot": "BODY",
+  "cap": 198,
+  "ph": []
+ },
+ {
+  "key": "ui.signatures.still.match.install",
+  "text": "Signatures still match. Install a newer APK to decode those fields.",
+  "slot": "BODY",
+  "cap": 201,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.reach.github",
+  "text": "Could not reach GitHub",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.reach.catalog",
+  "text": "Could not reach the catalog on GitHub. Try again later, or use Import signatures from a file.",
+  "slot": "BODY",
+  "cap": 279,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.import.catalog",
+  "text": "Could not import catalog",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.import.catalog.2",
+  "text": "Could not import catalog.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.signatures.imported",
+  "text": "Signatures imported",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.import.signatures",
+  "text": "Could not import signatures",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.settings",
+  "text": "Fieldwatch settings",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.export.settings",
+  "text": "Could not export settings",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.settings.saved",
+  "text": "Settings saved",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.pack.was.written.folder.2",
+  "text": "The pack was written to the folder you picked. Keep it for a factory reset or a new phone. Import settings on the new install. Signatures are a separate pack.",
+  "slot": "BODY",
+  "cap": 474,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.save.settings",
+  "text": "Could not save settings",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.import.settings",
+  "text": "Could not import settings",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.settings.imported",
+  "text": "Settings imported",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.tag.detections.gps.2",
+  "text": "Turn on Tag detections with GPS to record a path.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.walk.path.needs.gps",
+  "text": "Walk with that on. The path needs a GPS fix.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.last.15.minutes.walk",
+  "text": "Last 15 minutes. Walk with Tag detections with GPS on, or start a sit to keep a longer path.",
+  "slot": "BODY",
+  "cap": 276,
+  "ph": []
+ },
+ {
+  "key": "ui.writing.debrief.pdf",
+  "text": "Writing debrief PDF…",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.laying.out.debrief.pdf",
+  "text": "Laying out debrief PDF…",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.write.debrief",
+  "text": "Could not write debrief PDF",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.writing.debrief",
+  "text": "Writing debrief…",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.write.debrief.2",
+  "text": "Could not write debrief",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.field.debrief.last",
+  "text": "Fieldwatch field debrief — last 15 minutes",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.gathering.sit",
+  "text": "Gathering sit…",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.looking.up.place.names",
+  "text": "Looking up place names…",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.building.debrief",
+  "text": "Building debrief…",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.building.ai.export.prompt",
+  "text": "Building AI export prompt…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.ai.export.last",
+  "text": "Fieldwatch AI export — last 15 minutes",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.build.ai",
+  "text": "Could not build AI export",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.device.detail",
+  "text": "Device detail",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.share.device",
+  "text": "Could not share device detail",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.preparing.sit.export",
+  "text": "Preparing sit export…",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.saving.sit.export",
+  "text": "Saving sit export…",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.logging.paused.preparing.file",
+  "text": "Logging paused · preparing file…",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.logging.paused.saving.location",
+  "text": "Logging paused · saving to the location you picked…",
+  "slot": "BODY",
+  "cap": 153,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.log.csv",
+  "text": "Fieldwatch log (CSV)",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.log.json.lines",
+  "text": "Fieldwatch log (JSON lines)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.gpx",
+  "text": "Fieldwatch GPX",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.kml",
+  "text": "Fieldwatch KML",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.wigle.csv",
+  "text": "Fieldwatch WiGLE CSV",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.reading.log.2",
+  "text": "Reading log…",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.radios",
+  "text": "Wi-Fi radios",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.radios",
+  "text": "BLE radios",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.clearing.log",
+  "text": "Clearing log…",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.could.not.clear.log",
+  "text": "Could not clear log",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.export.failed",
+  "text": "Export failed",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.app.label",
+  "text": "App",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.catalog.label",
+  "text": "Catalog",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.label.2",
+  "text": "Phone",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.android.label",
+  "text": "Android",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.fingerprint.label",
+  "text": "Fingerprint",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.last.wi.fi.scan",
+  "text": "Last Wi-Fi scan",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.label",
+  "text": "Bluetooth",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.results.last.minute",
+  "text": "BLE results last minute",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.location.permission",
+  "text": "Location permission",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.fix",
+  "text": "GPS fix",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.verdict.label",
+  "text": "Verdict:",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.check.label",
+  "text": "Check:",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.settings.diagnostics",
+  "text": "Settings → Diagnostics.",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.scanning.not.running",
+  "text": "Scanning is not running.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.location.off.android.will.2",
+  "text": "Location is off. Android will not deliver scan results.",
+  "slot": "BODY",
+  "cap": 165,
+  "ph": []
+ },
+ {
+  "key": "ui.location.permission.off",
+  "text": "Location permission is off.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.bluetooth.off",
+  "text": "Wi-Fi and Bluetooth are off.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.scanning.starting",
+  "text": "Scanning is starting.",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.scan.refused",
+  "text": "Wi-Fi scan refused. BLE scan is parked. Both radios are on.",
+  "slot": "BODY",
+  "cap": 177,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.scan.parked.bluetooth",
+  "text": "BLE scan is parked. Bluetooth is on.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.scan.retrying",
+  "text": "BLE scan is retrying.",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.scan.refused.2",
+  "text": "Wi-Fi scan refused. Wi-Fi is on.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.bluetooth.scans",
+  "text": "Wi-Fi and Bluetooth scans are not running.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.scan.refused.3",
+  "text": "Wi-Fi scan refused. BLE is running.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.scan.parked.wi",
+  "text": "BLE scan is parked. Wi-Fi is running.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.off.ble",
+  "text": "Wi-Fi is off. BLE is running.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.off.wi.fi",
+  "text": "Bluetooth is off. Wi-Fi is running.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.scans.running.filter.hiding",
+  "text": "Scans are running. A filter is hiding the list.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.scans.running",
+  "text": "Scans are running.",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.scans.running.nothing.air",
+  "text": "Scans are running. Nothing is on the air.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.scanning.not.running.open",
+  "text": "Scanning is not running. Open Live. If Fieldwatch asks for permission, allow Location, Nearby devices, and Notifications.",
+  "slot": "BODY",
+  "cap": 363,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.location.android.will",
+  "text": "Turn Location on. Android will not return Wi-Fi or Bluetooth results while Location is off.",
+  "slot": "BODY",
+  "cap": 273,
+  "ph": []
+ },
+ {
+  "key": "ui.allow.location.fieldwatch.phone",
+  "text": "Allow location for Fieldwatch. Phone Settings, Apps, Fieldwatch, Permissions, Location.",
+  "slot": "BODY",
+  "cap": 261,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.wi.fi.bluetooth",
+  "text": "Turn Wi-Fi or Bluetooth on. Fieldwatch hears access points and Bluetooth advertisements.",
+  "slot": "BODY",
+  "cap": 264,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.off.so",
+  "text": "Wi-Fi is off, so access points will not appear. Bluetooth is running.",
+  "slot": "BODY",
+  "cap": 207,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.off.so.bluetooth",
+  "text": "Bluetooth is off, so Bluetooth radios will not appear. Wi-Fi is running.",
+  "slot": "BODY",
+  "cap": 216,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.scans.being",
+  "text": "Wi-Fi scans are being refused. The Wi-Fi radio is on. Toggle Wi-Fi off and on, then reopen Fieldwatch.",
+  "slot": "BODY",
+  "cap": 306,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.scans.parked.bluetooth",
+  "text": "Bluetooth scans are parked. The Bluetooth radio is on. Fieldwatch will try again.",
+  "slot": "BODY",
+  "cap": 243,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.scan.retrying.toggle",
+  "text": "Bluetooth scan is retrying. Toggle Bluetooth off and on, then reopen Fieldwatch.",
+  "slot": "BODY",
+  "cap": 240,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.still.starting.wait",
+  "text": "Bluetooth is still starting. Wait a few seconds.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.scan.not.running",
+  "text": "Bluetooth is on, and the scan is not running. Toggle Bluetooth off and on, then reopen Fieldwatch.",
+  "slot": "BODY",
+  "cap": 294,
+  "ph": []
+ },
+ {
+  "key": "ui.nothing.needs.off.scans",
+  "text": "Nothing that needs to be on is off. Scans are running.",
+  "slot": "BODY",
+  "cap": 162,
+  "ph": []
+ },
+ {
+  "key": "ui.nothing.needs.off.scans.2",
+  "text": "Nothing that needs to be on is off. Scans are running. Nothing is on the air right now.",
+  "slot": "BODY",
+  "cap": 261,
+  "ph": []
+ },
+ {
+  "key": "ui.arrivals.only",
+  "text": "Arrivals only",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi.hidden",
+  "text": "Wi-Fi hidden",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.ble.hidden",
+  "text": "BLE hidden",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.name.filter",
+  "text": "Name filter on",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.oui.filter",
+  "text": "OUI filter on",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.all.traffic",
+  "text": "All Traffic",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.waiting.os",
+  "text": "waiting on OS",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.not.running",
+  "text": "not running",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.good.label",
+  "text": "Good",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.fair.label",
+  "text": "Fair",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.poor.label",
+  "text": "Poor",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.calibration.complete.phone.good",
+  "text": "Calibration complete. This phone is Good.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.should.work.steady.view",
+  "text": "It should work with a steady view of the sky, away from other electronics.",
+  "slot": "BODY",
+  "cap": 222,
+  "ph": []
+ },
+ {
+  "key": "ui.calibration.complete.phone.fair",
+  "text": "Calibration complete. This phone is Fair. Usable.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.small.drops.will.hard",
+  "text": "Small drops will be hard to separate from this phone's own GPS.",
+  "slot": "BODY",
+  "cap": 189,
+  "ph": []
+ },
+ {
+  "key": "ui.medium.low.will.steadier",
+  "text": "Medium or Low will be steadier than High.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.calibration.complete.phone.poor",
+  "text": "Calibration complete. This phone is Poor.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.s.gps.too",
+  "text": "This phone's GPS is too coarse for an interference alert.",
+  "slot": "BODY",
+  "cap": 171,
+  "ph": []
+ },
+ {
+  "key": "ui.can.still.tag.path",
+  "text": "It can still tag a path. The popup stays off.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.gnss.calibration",
+  "text": "GNSS calibration",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.not.run",
+  "text": "not run",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.not.reported",
+  "text": "not reported",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.calibrated.label",
+  "text": "Calibrated",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.signal.calibration",
+  "text": "GPS signal at calibration",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.gain.wander",
+  "text": "Gain wander",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.not.enough.gps.readings",
+  "text": "Not enough GPS readings. Stay outside, hold still, and try again.",
+  "slot": "BODY",
+  "cap": 195,
+  "ph": []
+ },
+ {
+  "key": "ui.no.gps.fix.stand",
+  "text": "No GPS fix. Stand outside, hold still, and try again.",
+  "slot": "BODY",
+  "cap": 159,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.was.moving.stand",
+  "text": "The phone was moving. Stand still and try again.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.too.few.satellites.stand",
+  "text": "Too few satellites. Stand in the open, away from a roof and a router, and try again.",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.signal.was.too",
+  "text": "The GPS signal was too weak for a calibration. Stand in the open and try again.",
+  "slot": "BODY",
+  "cap": 237,
+  "ph": []
+ },
+ {
+  "key": "ui.wi.fi",
+  "text": "Wi-Fi,",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.field.debrief",
+  "text": "FIELDWATCH FIELD DEBRIEF",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.field.debrief",
+  "text": "FIELD DEBRIEF",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.field.debrief.2",
+  "text": "Field debrief",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.mac.tails.uas.ids",
+  "text": "MAC tails (**:**:**), UAS ids, and GPS coordinates masked. Logs on the phone are unchanged.",
+  "slot": "BODY",
+  "cap": 273,
+  "ph": []
+ },
+ {
+  "key": "ui.privacy.label",
+  "text": "Privacy",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.loudest.aps",
+  "text": "Loudest APs:",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.mine",
+  "text": "Marked mine",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.hidden.ssids",
+  "text": "Hidden SSIDs:",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.notable.ble",
+  "text": "Notable BLE:",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.none.window",
+  "text": "None in this window.",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.mine.2",
+  "text": "Marked mine",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.named.marked",
+  "text": "Named or marked:",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.none.label",
+  "text": "· None.",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.loudest.first.seen",
+  "text": "Loudest first seen:",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.no.extra.flags.signature",
+  "text": "No extra flags. Signature hits, Extra attention, and tracking callouts already cover named pattern matches.",
+  "slot": "BODY",
+  "cap": 321,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tagging.off.no",
+  "text": "GPS tagging off — no path",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tagging.fewer.than",
+  "text": "GPS tagging on, fewer than 2 fixes in this window",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.executive.summary",
+  "text": "Executive summary",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.where.were",
+  "text": "Where you were",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.mine.3",
+  "text": "Marked mine",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.tracking.assessment",
+  "text": "Tracking assessment",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.possible.trackers",
+  "text": "Possible trackers with you",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.finder.tags.airtag.find",
+  "text": "Finder tags (AirTag / Find My, SmartTag, Tile, Chipolo, Pebblebee) and loud pocket Apple BLE.",
+  "slot": "BODY",
+  "cap": 279,
+  "ph": []
+ },
+ {
+  "key": "ui.these.radios.stayed.gps",
+  "text": "These radios stayed with your GPS path for this sit.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.cannot.tell.own",
+  "text": "Fieldwatch cannot tell your own tag or phone from a tracker planted in the car, bag, or on you before you started.",
+  "slot": "BODY",
+  "cap": 342,
+  "ph": []
+ },
+ {
+  "key": "ui.account.each.mac.not",
+  "text": "Account for each MAC. Not a finding and not identity.",
+  "slot": "BODY",
+  "cap": 159,
+  "ph": []
+ },
+ {
+  "key": "ui.possible.tail",
+  "text": "Possible tail",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.finder.tags.were.not",
+  "text": "Finder tags that were not heard when this sit started, then stayed with your path.",
+  "slot": "BODY",
+  "cap": 246,
+  "ph": []
+ },
+ {
+  "key": "ui.can.mean.someone.started",
+  "text": "That can mean someone started following you (their phone or tag), or a device was added during the trip.",
+  "slot": "BODY",
+  "cap": 312,
+  "ph": []
+ },
+ {
+  "key": "ui.not.finding.not.identity",
+  "text": "Not a finding and not identity.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.retail.beacons",
+  "text": "Retail beacons with you",
+  "slot": "CONTROL",
+  "cap": 46,
+  "ph": []
+ },
+ {
+  "key": "ui.ibeacon.minew.estimote.kontakt",
+  "text": "iBeacon / Minew / Estimote / Kontakt.io / Atrius cart tag radios that stayed with your GPS path.",
+  "slot": "BODY",
+  "cap": 288,
+  "ph": []
+ },
+ {
+  "key": "ui.location.beacons.usually.fixtures",
+  "text": "Location beacons are usually fixtures in a store or venue — they do not typically move with you.",
+  "slot": "BODY",
+  "cap": 288,
+  "ph": []
+ },
+ {
+  "key": "ui.if.one.did.account",
+  "text": "If one did, account for it (a cart you pushed, your own test tag, a badge, or a short path that still overlaps a fixture).",
+  "slot": "BODY",
+  "cap": 366,
+  "ph": []
+ },
+ {
+  "key": "ui.not.same.find.my",
+  "text": "Not the same as a Find My tail. Not a finding and not identity.",
+  "slot": "BODY",
+  "cap": 189,
+  "ph": []
+ },
+ {
+  "key": "ui.wearables.label",
+  "text": "Wearables with you",
+  "slot": "CONTROL",
+  "cap": 36,
+  "ph": []
+ },
+ {
+  "key": "ui.garmin.fitbit.oura.polar",
+  "text": "Garmin / Fitbit / Oura / Polar radios that stayed with your GPS path.",
+  "slot": "BODY",
+  "cap": 207,
+  "ph": []
+ },
+ {
+  "key": "ui.watches.rings.usually.move",
+  "text": "Watches and rings usually move with the person wearing them — often your own kit or someone walking with you.",
+  "slot": "BODY",
+  "cap": 327,
+  "ph": []
+ },
+ {
+  "key": "ui.they.not.typically.planted",
+  "text": "They are not typically planted trackers. Account for each MAC. Not a finding and not identity.",
+  "slot": "BODY",
+  "cap": 282,
+  "ph": []
+ },
+ {
+  "key": "ui.environment.label",
+  "text": "Environment",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.networks.wi.fi.access",
+  "text": "Networks (Wi-Fi access points)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.bluetooth.le",
+  "text": "Bluetooth LE",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.hits",
+  "text": "Signature hits",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.persistence.label",
+  "text": "Persistence",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.pattern.match.not.identity.2",
+  "text": "Pattern match, not identity, not a skimmer detector, not a safety finding.",
+  "slot": "BODY",
+  "cap": 222,
+  "ph": []
+ },
+ {
+  "key": "ui.anomalies.label",
+  "text": "Anomalies",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.flood.label",
+  "text": "Flood",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.recommended.actions",
+  "text": "Recommended actions",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.generated.label",
+  "text": "Generated",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.label",
+  "text": "Sit",
+  "slot": "CONTROL",
+  "cap": 6,
+  "ph": []
+ },
+ {
+  "key": "ui.window.label",
+  "text": "Window",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.tool.label",
+  "text": "Tool",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.app.fieldwatch.stock",
+  "text": "Fieldwatch (app.fieldwatch) · stock Android · receive-only Wi-Fi AP + BLE advertiser",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.scan.label",
+  "text": "Scan",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tag",
+  "text": "GPS tag",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.distance.label",
+  "text": "Distance",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.classification.label",
+  "text": "Classification",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.operationally.sensitive.neighbor.ssids",
+  "text": "Operationally sensitive — neighbor SSIDs, MACs, operator GPS, advertised aircraft track",
+  "slot": "BODY",
+  "cap": 261,
+  "ph": []
+ },
+ {
+  "key": "ui.operationally.sensitive.neighbor.ssids.2",
+  "text": "Operationally sensitive — neighbor SSIDs, MACs, operator GPS",
+  "slot": "BODY",
+  "cap": 180,
+  "ph": []
+ },
+ {
+  "key": "ui.mac.alert.signature.alert",
+  "text": "A MAC alert or a signature alert is drawn once.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.decoded.latitude.longitude.last",
+  "text": "A decoded latitude and longitude is the last advertised position.",
+  "slot": "BODY",
+  "cap": 195,
+  "ph": []
+ },
+ {
+  "key": "ui.anything.else.strongest.hear",
+  "text": "Anything else is the strongest hear. A number is that place (Path key).",
+  "slot": "BODY",
+  "cap": 213,
+  "ph": []
+ },
+ {
+  "key": "ui.red.diamond.where.phone",
+  "text": "A red diamond is where this phone was during a GNSS detection.",
+  "slot": "BODY",
+  "cap": 186,
+  "ph": []
+ },
+ {
+  "key": "ui.path.key.has.time",
+  "text": "The Path key has the time and what changed.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.does.not.say.where",
+  "text": "It does not say where the interference came from.",
+  "slot": "BODY",
+  "cap": 147,
+  "ph": []
+ },
+ {
+  "key": "ui.operator.path",
+  "text": "OPERATOR PATH",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.where.were.operator.gps",
+  "text": "## Where you were (operator GPS)",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.online.place.names",
+  "text": "- Online place names:",
+  "slot": "CONTROL",
+  "cap": 42,
+  "ph": []
+ },
+ {
+  "key": "ui.off.settings.online.place",
+  "text": "off (Settings → Online place names in Debrief). No reverse-geocode this export.",
+  "slot": "BODY",
+  "cap": 237,
+  "ph": []
+ },
+ {
+  "key": "ui.following.test.insufficient.movement",
+  "text": "- Following test: insufficient movement (need ~45 m span). Do not infer a tail.",
+  "slot": "BODY",
+  "cap": 237,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.co.travel",
+  "text": "## GPS co-travel",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.only.radios.stayed.operator",
+  "text": "Only radios that stayed with the operator path are listed.",
+  "slot": "BODY",
+  "cap": 174,
+  "ph": []
+ },
+ {
+  "key": "ui.house.tags.other.radios",
+  "text": "House tags and other radios the operator only passed are omitted — they are not tracking.",
+  "slot": "BODY",
+  "cap": 267,
+  "ph": []
+ },
+ {
+  "key": "ui.not.identity.find.my",
+  "text": "Not identity. Find My MAC rotation will not stitch a tail that changes address.",
+  "slot": "BODY",
+  "cap": 237,
+  "ph": []
+ },
+ {
+  "key": "ui.possible.tail.extra.gates",
+  "text": "Possible tail extra gates (walks): trail covers ≥ half the operator path,",
+  "slot": "BODY",
+  "cap": 219,
+  "ph": []
+ },
+ {
+  "key": "ui.2.3.gps.stamps",
+  "text": "≥ 2/3 of GPS stamps at −75 dBm or louder, last stamp not 12 dB below loudest.",
+  "slot": "BODY",
+  "cap": 231,
+  "ph": []
+ },
+ {
+  "key": "ui.fail.any.one.omit",
+  "text": "Fail any one → omit (pass-by), not a tail.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.finder.tags.airtag.smarttag",
+  "text": "Finder tags (AirTag / SmartTag / Tile / Chipolo / Pebblebee / Find My / loud pocket Apple)",
+  "slot": "BODY",
+  "cap": 270,
+  "ph": []
+ },
+ {
+  "key": "ui.tracking.test.retail.beacons",
+  "text": "are the tracking test. Retail beacons and wearables that co-travel are listed separately —",
+  "slot": "BODY",
+  "cap": 270,
+  "ph": []
+ },
+ {
+  "key": "ui.they.do.not.typically",
+  "text": "they do not typically move with you (beacons) or are usually own kit (wearables).",
+  "slot": "BODY",
+  "cap": 243,
+  "ph": []
+ },
+ {
+  "key": "ui.none.stayed.path",
+  "text": "- None stayed with the path.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.possible.trackers.finder.tags",
+  "text": "Possible trackers with you (finder tags, whole sit — yours or planted before you started)",
+  "slot": "BODY",
+  "cap": 267,
+  "ph": []
+ },
+ {
+  "key": "ui.possible.tail.finder.tags",
+  "text": "Possible tail (finder tags, first heard after this sit started, then stayed)",
+  "slot": "BODY",
+  "cap": 228,
+  "ph": []
+ },
+ {
+  "key": "ui.retail.beacons.ibeacon.minew",
+  "text": "Retail beacons with you (iBeacon / Minew / Estimote / Kontakt.io / Atrius cart tag — fixtures; a pushed cart will co-travel)",
+  "slot": "BODY",
+  "cap": 372,
+  "ph": []
+ },
+ {
+  "key": "ui.wearables.garmin.fitbit.oura",
+  "text": "Wearables with you (Garmin / Fitbit / Oura / Polar — usually own kit or a companion)",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.heard.but.not.two",
+  "text": "Heard, but not at two GPS points. Cannot test co-travel.",
+  "slot": "BODY",
+  "cap": 168,
+  "ph": []
+ },
+ {
+  "key": "ui.whole.sit.yours.planted",
+  "text": "With you the whole sit — yours or planted before you started. Account for it.",
+  "slot": "BODY",
+  "cap": 231,
+  "ph": []
+ },
+ {
+  "key": "ui.location.beacons.do.not",
+  "text": "Location beacons do not typically move with you. Account for it (own test tag, badge, or a short overlap with a fixture).",
+  "slot": "BODY",
+  "cap": 363,
+  "ph": []
+ },
+ {
+  "key": "ui.typical.watch.ring.companion",
+  "text": "Typical of a watch or ring you or a companion are wearing. Not typically a planted tracker.",
+  "slot": "BODY",
+  "cap": 273,
+  "ph": []
+ },
+ {
+  "key": "ui.treat.possible.tail.until",
+  "text": "Treat as a possible tail until you visually account for it.",
+  "slot": "BODY",
+  "cap": 177,
+  "ph": []
+ },
+ {
+  "key": "ui.unusual.retail.location.beacon",
+  "text": "Unusual for a retail/location beacon — they do not typically move with you. Account for it; not the same as a Find My tail.",
+  "slot": "BODY",
+  "cap": 369,
+  "ph": []
+ },
+ {
+  "key": "ui.typical.watch.joined.sit",
+  "text": "Typical of a watch that joined the sit (you put it on, or someone walking with you). Not typically a planted tracker.",
+  "slot": "BODY",
+  "cap": 351,
+  "ph": []
+ },
+ {
+  "key": "ui.last.15.minutes.3",
+  "text": "In the last 15 minutes",
+  "slot": "CONTROL",
+  "cap": 44,
+  "ph": []
+ },
+ {
+  "key": "ui.tracking.note",
+  "text": "TRACKING NOTE.",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.account.every.mac.fieldwatch",
+  "text": "Account for every MAC — Fieldwatch cannot tell yours from a plant.",
+  "slot": "BODY",
+  "cap": 198,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tagging.off.so",
+  "text": "GPS tagging is off, so a following test was not performed. Enable “Tag detections with GPS” and walk to test.",
+  "slot": "BODY",
+  "cap": 327,
+  "ph": []
+ },
+ {
+  "key": "ui.no.finder.tag.clearly",
+  "text": "No finder tag clearly stayed with the GPS path in this window.",
+  "slot": "BODY",
+  "cap": 186,
+  "ph": []
+ },
+ {
+  "key": "ui.retail.beacon.s.also",
+  "text": "Retail beacon(s) also stayed with the path (unusual — fixtures do not typically move with you):",
+  "slot": "BODY",
+  "cap": 285,
+  "ph": []
+ },
+ {
+  "key": "ui.wearable.s.stayed.path",
+  "text": "Wearable(s) stayed with the path (usually your watch/ring or a companion):",
+  "slot": "BODY",
+  "cap": 222,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tagging.off.fieldwatch",
+  "text": "GPS tagging is OFF. Fieldwatch cannot test whether a radio moved with you.",
+  "slot": "BODY",
+  "cap": 222,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.settings.tag.detections.2",
+  "text": "Turn on Settings → Tag detections with GPS, walk or drive 50+ m, then run Debrief again.",
+  "slot": "BODY",
+  "cap": 264,
+  "ph": []
+ },
+ {
+  "key": "ui.co.travel.split.class",
+  "text": "Co-travel is split by class: finder tags (AirTag / Find My, SmartTag, Tile, Chipolo, Pebblebee, loud pocket Apple), retail beacons (iBeacon, Minew, Estimote, Kontakt.io, Atrius cart tag), and wearables (Garmin, Fitbit, Oura, Polar).",
+  "slot": "BODY",
+  "cap": 696,
+  "ph": []
+ },
+ {
+  "key": "ui.insufficient.movement.distinguish.radio",
+  "text": "Insufficient movement to distinguish a radio that stayed with you from one you passed. Walk or drive farther and re-run.",
+  "slot": "BODY",
+  "cap": 360,
+  "ph": []
+ },
+ {
+  "key": "ui.no.finder.tag.retail",
+  "text": "No finder tag, retail beacon, or wearable stayed with you. House tags and other radios you only passed are not listed.",
+  "slot": "BODY",
+  "cap": 354,
+  "ph": []
+ },
+ {
+  "key": "ui.callouts.below.only.radios",
+  "text": "Callouts below are only radios that stayed with the path. Radios you passed (store fixtures, house tags) are omitted.",
+  "slot": "BODY",
+  "cap": 351,
+  "ph": []
+ },
+ {
+  "key": "ui.radios.marked.mine.heard",
+  "text": "Radios you marked mine. Heard in this window. Still listed. No beep while the mark is on.",
+  "slot": "BODY",
+  "cap": 267,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.mine.first.heard",
+  "text": "Marked mine. First heard after the sit started and stayed with the path.",
+  "slot": "BODY",
+  "cap": 216,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.mine.whole.sit",
+  "text": "Marked mine. With you the whole sit.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.marked.mine.4",
+  "text": "Marked mine.",
+  "slot": "CONTROL",
+  "cap": 24,
+  "ph": []
+ },
+ {
+  "key": "ui.captions.radios.heard.window",
+  "text": "Your captions on radios heard in this window. Same KIND+MAC as Named radios. Not catalog Notes.",
+  "slot": "BODY",
+  "cap": 285,
+  "ph": []
+ },
+ {
+  "key": "ui.phone.gps.hear.time",
+  "text": "Phone GPS at hear-time, not the other radio’s location and not a camera pole. Stays are clusters within about 40 m; hops between them are transit. Coordinates are not repeated on every Wi-Fi/BLE line.",
+  "slot": "BODY",
+  "cap": 600,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tagging.off.turn",
+  "text": "GPS tagging is OFF. Turn on Settings → Tag detections with GPS to record where you were when radios were heard.",
+  "slot": "BODY",
+  "cap": 333,
+  "ph": []
+ },
+ {
+  "key": "ui.gps.tagging.but.window",
+  "text": "GPS tagging is on, but this window has no fixes yet.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.street.names.approximate.do",
+  "text": "Street names are approximate. Do not treat a street as the location of a matched camera or tag.",
+  "slot": "BODY",
+  "cap": 285,
+  "ph": []
+ },
+ {
+  "key": "ui.no.path.legs",
+  "text": "No path legs.",
+  "slot": "CONTROL",
+  "cap": 26,
+  "ph": []
+ },
+ {
+  "key": "ui.stops.label",
+  "text": "Stops:",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.no.gps.stamped.radios",
+  "text": "· No GPS-stamped radios tied to this stay (tagging may have started after they were first heard).",
+  "slot": "BODY",
+  "cap": 291,
+  "ph": []
+ },
+ {
+  "key": "ui.one.stay.did.not",
+  "text": "One stay — you did not move far enough in this window to split locations.",
+  "slot": "BODY",
+  "cap": 219,
+  "ph": []
+ },
+ {
+  "key": "ui.motion.walk.vehicle.through",
+  "text": "In motion (walk/vehicle) through mixed RF.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.likely.dwelling.small.office",
+  "text": "Likely a dwelling or small office — few sitting APs, limited BLE.",
+  "slot": "BODY",
+  "cap": 195,
+  "ph": []
+ },
+ {
+  "key": "ui.dense.public.retail.street",
+  "text": "Dense public / retail / street: many APs and phone-like randomized BLE.",
+  "slot": "BODY",
+  "cap": 213,
+  "ph": []
+ },
+ {
+  "key": "ui.likely.building.standing.infrastructure",
+  "text": "Likely a building with standing infrastructure APs plus patrons.",
+  "slot": "BODY",
+  "cap": 192,
+  "ph": []
+ },
+ {
+  "key": "ui.mixed.under.sampled.environment",
+  "text": "Mixed or under-sampled environment.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.radio.two.classes.counts",
+  "text": "A radio in two classes counts in each.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.path.map.marks.where",
+  "text": "The path map marks where this phone was. It does not say where the interference came from.",
+  "slot": "BODY",
+  "cap": 270,
+  "ph": []
+ },
+ {
+  "key": "ui.google.fast.pair.pairing",
+  "text": "Google Fast Pair in pairing mode:",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.very.strong.unnamed.radios",
+  "text": "Very strong unnamed radios (≥ −50 dBm):",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.hidden.ssids.still.beacon",
+  "text": "Hidden SSIDs still beacon and identify the AP by BSSID.",
+  "slot": "BODY",
+  "cap": 165,
+  "ph": []
+ },
+ {
+  "key": "ui.debrief.includes.operator.gps",
+  "text": "This debrief includes operator GPS samples used for distance and the following test.",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.debrief.includes.advertised.aircraft",
+  "text": "This debrief includes advertised aircraft positions from radios that broadcast a latitude and longitude.",
+  "slot": "BODY",
+  "cap": 312,
+  "ph": []
+ },
+ {
+  "key": "ui.street.names.came.phone",
+  "text": "Street names came from the phone’s system geocoder while online.",
+  "slot": "BODY",
+  "cap": 192,
+  "ph": []
+ },
+ {
+  "key": "ui.do.not.share.file",
+  "text": "Do not share this file off-device without redaction.",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.could.yours.planted.car",
+  "text": "Could be yours or planted in the car/bag/on you before you started. Account for each MAC — do not dismiss as yours.",
+  "slot": "BODY",
+  "cap": 345,
+  "ph": []
+ },
+ {
+  "key": "ui.retail.beacons.unusual.fixtures",
+  "text": "Retail beacons with you (unusual — fixtures do not typically move with you):",
+  "slot": "BODY",
+  "cap": 228,
+  "ph": []
+ },
+ {
+  "key": "ui.account.test.tag.badge",
+  "text": ". Account for a test tag or badge before treating it as a follower.",
+  "slot": "BODY",
+  "cap": 201,
+  "ph": []
+ },
+ {
+  "key": "ui.wearables.usually.own.kit",
+  "text": "Wearables with you (usually own kit or a companion):",
+  "slot": "BODY",
+  "cap": 156,
+  "ph": []
+ },
+ {
+  "key": "ui.enable.tag.detections.gps",
+  "text": "Enable Tag detections with GPS and walk 50+ m, then run Debrief again for a following test.",
+  "slot": "BODY",
+  "cap": 273,
+  "ph": []
+ },
+ {
+  "key": "ui.walk.farther.50.m",
+  "text": "Walk farther (50+ m) with GPS tagging on, then re-run Debrief.",
+  "slot": "BODY",
+  "cap": 186,
+  "ph": []
+ },
+ {
+  "key": "ui.use.live.pause.inspect",
+  "text": "Use Live → Pause to inspect a busy list. Watch tracker signatures if this sit was noisy.",
+  "slot": "BODY",
+  "cap": 264,
+  "ph": []
+ },
+ {
+  "key": "ui.station.side.wi.fi",
+  "text": "Station-side Wi-Fi (probes/clients) still needs a dedicated sniffer — Fieldwatch cannot see them.",
+  "slot": "BODY",
+  "cap": 291,
+  "ph": []
+ },
+ {
+  "key": "ui.retail.beacon.s.also.2",
+  "text": "Retail beacon(s) also with the path (unusual):",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.wearable.s.path.usually",
+  "text": "Wearable(s) with the path (usually own kit):",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.turn.gps.tagging.walk",
+  "text": "Turn on GPS tagging and walk before you can test whether a tracker is following you.",
+  "slot": "BODY",
+  "cap": 252,
+  "ph": []
+ },
+ {
+  "key": "ui.no.finder.tag.stayed",
+  "text": "No finder tag stayed with the path.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.signature.hits.no",
+  "text": "No signature hits and no GPS co-travel of trackers in this 15-minute window.",
+  "slot": "BODY",
+  "cap": 228,
+  "ph": []
+ },
+ {
+  "key": "ui.no.finder.tag.retail.2",
+  "text": "No finder tag, retail beacon, or wearable clearly stayed with your GPS path in this window.",
+  "slot": "BODY",
+  "cap": 273,
+  "ph": []
+ },
+ {
+  "key": "ui.very.close",
+  "text": "Very Close",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.closer.label",
+  "text": "Closer",
+  "slot": "CONTROL",
+  "cap": 12,
+  "ph": []
+ },
+ {
+  "key": "ui.further.label",
+  "text": "Further",
+  "slot": "CONTROL",
+  "cap": 14,
+  "ph": []
+ },
+ {
+  "key": "ui.about.same",
+  "text": "About the same",
+  "slot": "CONTROL",
+  "cap": 28,
+  "ph": []
+ },
+ {
+  "key": "ui.listening.label",
+  "text": "Listening…",
+  "slot": "CONTROL",
+  "cap": 20,
+  "ph": []
+ },
+ {
+  "key": "ui.quiet.label",
+  "text": "Faint",
+  "slot": "CONTROL",
+  "cap": 10,
+  "ph": []
+ },
+ {
+  "key": "ui.gone.label",
+  "text": "Gone",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.screaming.loud.here.look",
+  "text": "Screaming loud here. Look around — usually in-hand, pocket, or the same bag. Not meters.",
+  "slot": "BODY",
+  "cap": 264,
+  "ph": []
+ },
+ {
+  "key": "ui.louder.than.few.seconds",
+  "text": "Louder than a few seconds ago. Keep walking that way.",
+  "slot": "BODY",
+  "cap": 159,
+  "ph": []
+ },
+ {
+  "key": "ui.quieter.than.few.seconds",
+  "text": "Quieter than a few seconds ago. Turn or back up.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.clear.change.yet",
+  "text": "No clear change yet. Slow down; hold the phone still.",
+  "slot": "BODY",
+  "cap": 159,
+  "ph": []
+ },
+ {
+  "key": "ui.need.few.seconds.packets",
+  "text": "Need a few seconds of packets to compare.",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.no.packet.few.seconds",
+  "text": "No packet for a few seconds. Silent, or behind a wall.",
+  "slot": "BODY",
+  "cap": 162,
+  "ph": []
+ },
+ {
+  "key": "ui.left.live.set.randomized",
+  "text": "Left the live set. Randomized BLE often vanishes mid-hunt.",
+  "slot": "BODY",
+  "cap": 174,
+  "ph": []
+ },
+ {
+  "key": "ui.sit.label.2",
+  "text": "This sit",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.stay.label",
+  "text": "Stay",
+  "slot": "CONTROL",
+  "cap": 8,
+  "ph": []
+ },
+ {
+  "key": "ui.second.advertised",
+  "text": "Second advertised",
+  "slot": "CONTROL",
+  "cap": 34,
+  "ph": []
+ },
+ {
+  "key": "ui.mac.alert",
+  "text": "MAC alert",
+  "slot": "CONTROL",
+  "cap": 18,
+  "ph": []
+ },
+ {
+  "key": "ui.signature.alert",
+  "text": "Signature alert",
+  "slot": "CONTROL",
+  "cap": 30,
+  "ph": []
+ },
+ {
+  "key": "ui.operator.label.2",
+  "text": "Operator",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.second.gnss",
+  "text": "Second GNSS",
+  "slot": "CONTROL",
+  "cap": 22,
+  "ph": []
+ },
+ {
+  "key": "ui.path.key",
+  "text": "Path key",
+  "slot": "CONTROL",
+  "cap": 16,
+  "ph": []
+ },
+ {
+  "key": "ui.off.grid.pete.llc",
+  "text": "Off Grid Pete LLC  ·  operationally sensitive",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.watchlist",
+  "text": "Fieldwatch watchlist",
+  "slot": "CONTROL",
+  "cap": 40,
+  "ph": []
+ },
+ {
+  "key": "ui.appearing.signatures.devices.watchlist",
+  "text": "Appearing signatures and devices on your watchlist. Beep is played separately.",
+  "slot": "BODY",
+  "cap": 234,
+  "ph": []
+ },
+ {
+  "key": "ui.possible.gnss.interference.spoofing",
+  "text": "Possible GNSS interference or spoofing on this phone. Beep and voice are separate.",
+  "slot": "BODY",
+  "cap": 246,
+  "ph": []
+ },
+ {
+  "key": "ui.starting.radios",
+  "text": "Starting radios…",
+  "slot": "CONTROL",
+  "cap": 32,
+  "ph": []
+ },
+ {
+  "key": "ui.fieldwatch.scanning",
+  "text": "Fieldwatch scanning",
+  "slot": "CONTROL",
+  "cap": 38,
+  "ph": []
+ },
+ {
+  "key": "ui.passive.wi.fi.bluetooth",
+  "text": "Passive Wi-Fi and Bluetooth scan status",
+  "slot": "CONTROL",
+  "cap": 48,
+  "ph": []
+ }
+]
